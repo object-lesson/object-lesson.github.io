@@ -1,7 +1,5 @@
-google.com, pub-3884068607751462, DIRECT, f08c47fec0942fa0
-
 ##################################
-# AdinPlay.com ads.txt - 2024-12-22
+# AdinPlay.com ads.txt - 2025-02-19
 ##################################
 
 OWNERDOMAIN=agario.one
@@ -259,24 +257,24 @@ appnexus.com, 9393, RESELLER, f5ab79cb980f11d1  #Video #Display
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 
 #Kueez
-kueez.com, fe46d13305ce1b89f18a84c52275b7fe, direct
-appnexus.com,8826,RESELLER
-rubiconproject.com,16920,RESELLER
-openx.com,557564833,RESELLER
-lijit.com,407406,RESELLER
-media.net,8cu4jtrf9,RESELLER
-pubmatic.com,162110,RESELLER
-sharethrough.com,n98xdzel,RESELLER
-33across.com,0010b00002odu4haax,RESELLER
-yieldmo.com,3133660606033240149,RESELLER
-onetag.com,6e053d779444c00,RESELLER
-video.unrulymedia.com,3486482593,RESELLER
-sonobi.com,4c4fba1717,RESELLER
-smartadserver.com,4288,RESELLER
-zetaglobal.com,108,RESELLER
-improvedigital.com,2106,RESELLER
-loopme.com,11576,RESELLER
-themediagrid.com,uot45z,RESELLER
+kueez.com, fe46d13305ce1b89f18a84c52275b7fe, DIRECT
+appnexus.com, 8826, RESELLER
+rubiconproject.com, 16920, RESELLER
+openx.com, 557564833, RESELLER
+lijit.com, 407406, RESELLER
+media.net, 8cu4jtrf9, RESELLER
+pubmatic.com, 162110, RESELLER
+sharethrough.com, n98xdzel, RESELLER
+33across.com, 0010b00002odu4haax, RESELLER
+yieldmo.com, 3133660606033240149, RESELLER
+onetag.com, 6e053d779444c00, RESELLER
+video.unrulymedia.com, 3486482593, RESELLER
+sonobi.com, 4c4fba1717, RESELLER
+smartadserver.com, 4288, RESELLER
+zetaglobal.com, 108, RESELLER
+improvedigital.com, 2106, RESELLER
+loopme.com, 11576, RESELLER
+themediagrid.com, uot45z, RESELLER
 
 
 #Aniview
@@ -758,7 +756,7 @@ themediagrid.com, 1J3ZI6, DIRECT, 35d5010d7789b49d
 themediagrid.com, WF71T3, DIRECT, 35d5010d7789b49d
 
 # OptiDigital  
-optidigital.com,p345,INTERMEDIATE
+optidigital.com,p345,RESELLER
 pubmatic.com,158939,RESELLER,5d62403b186f2ace
 rubiconproject.com,20336,RESELLER,0bfd66d529a55807
 smartadserver.com,3379,RESELLER,060d053dcf45cbf3
@@ -825,5 +823,5 @@ vidazoo.com, 655c85dc63ceeb606a0f365f, DIRECT, b6ada874b4d7d0b2
 smartadserver.com, 3490, DIRECT
 
 ##################################
-# AdinPlay.com ads.txt - 2024-12-22
+# AdinPlay.com ads.txt - 2025-02-19
 ##################################
