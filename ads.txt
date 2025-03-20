@@ -1,5 +1,5 @@
 ##################################
-# AdinPlay.com ads.txt - 2025-02-19
+# AdinPlay.com ads.txt - 2025-03-10
 ##################################
 
 OWNERDOMAIN=agario.one
@@ -823,5 +823,5 @@ vidazoo.com, 655c85dc63ceeb606a0f365f, DIRECT, b6ada874b4d7d0b2
 smartadserver.com, 3490, DIRECT
 
 ##################################
-# AdinPlay.com ads.txt - 2025-02-19
+# AdinPlay.com ads.txt - 2025-03-10
 ##################################
