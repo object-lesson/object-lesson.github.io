@@ -17,87 +17,58 @@
 
   var resolved = { url: '', label: '', icon: '' };
 
-  var gamesCache = null;
+  function setText(el, v){ if(el) el.textContent = v; }
+  function setHref(el, v){ if(el) el.href = v; }
+  function setSrc(el, v){ if(el) el.src = v; }
 
-  function setMetaDescription(text){
+  function setMetaDescription(desc){
     try{
-      var m = document.querySelector('meta[name="description"]');
-      if(!m){
-        m = document.createElement('meta');
-        m.setAttribute('name','description');
-        document.head.appendChild(m);
+      var meta = document.querySelector('meta[name="description"]') || document.getElementById('meta-description');
+      if(!meta){
+        meta = document.createElement('meta');
+        meta.setAttribute('name','description');
+        document.head.appendChild(meta);
       }
-      m.setAttribute('content', text || '');
+      meta.setAttribute('content', desc || '');
     }catch(e){}
   }
-
   function setCanonical(url){
     try{
-      var link = document.querySelector('link[rel="canonical"]');
+      var link = document.getElementById('canonical-link') || document.querySelector('link[rel="canonical"]');
       if(!link){
         link = document.createElement('link');
         link.setAttribute('rel','canonical');
         document.head.appendChild(link);
       }
-      link.setAttribute('href', url || '');
+      link.setAttribute('href', url);
     }catch(e){}
   }
-
-  function loadGames(cb){
-    if(gamesCache){ return cb(null, gamesCache); }
-    fetchJSON('assets/data/games.json', function(err, games){
-      if(!err && games && games.length){ gamesCache = games; }
-      cb(err, gamesCache || []);
-    });
-  }
-
-  function findGameMeta(resolved, games){
+  function renderArticle(html){
     try{
-      if(!games || !games.length) return null;
-      var label = (resolved && resolved.label) ? String(resolved.label) : '';
-      var url = (resolved && resolved.url) ? String(resolved.url) : '';
-      // match by exact url first, then label
-      for(var i=0;i<games.length;i++){
-        if(url && games[i].game_url && String(games[i].game_url) === url) return games[i];
-      }
-      for(var j=0;j<games.length;j++){
-        if(label && games[j].label && String(games[j].label) === label) return games[j];
-      }
-      return null;
-    }catch(e){ return null; }
+      var box = document.getElementById('seo-article');
+      if(!box) return;
+      box.innerHTML = html || '';
+      box.style.display = (html ? 'block' : 'none');
+    }catch(e){}
   }
-
-  function applySEOFromGame(g){
+  function applySEO(game){
     try{
-      var settings = window.SITE_SETTINGS || {};
-      var suffix = settings.title_suffix || '';
-      var title = (g && g.seo && g.seo.title) ? g.seo.title : (g && g.label ? (g.label + ' Unblocked') : 'Play');
-      if(suffix && title.indexOf(suffix) === -1) title = title + suffix;
-      document.title = title;
-
-      var desc = (g && g.seo && g.seo.description) ? g.seo.description : (settings.default_description || '');
-      if(desc) setMetaDescription(desc);
-
-      // canonical -> game.html?id=...
-      try{
-        var params = new URLSearchParams(location.search);
-        var idp = params.get('id');
-        var canon = (settings.base_url || location.origin) + '/game.html' + (idp ? ('?id=' + encodeURIComponent(idp)) : '');
-        setCanonical(canon);
-      }catch(e){}
-
-      // Article injection
-      var container = document.getElementById('seo-article');
-      if(container && g && g.content && g.content.article_html){
-        container.innerHTML = g.content.article_html;
+      var siteSuffix = ' | Unblocked Games 2026';
+      if(game && game.seo && game.seo.title){
+        document.title = game.seo.title;
+      }else{
+        document.title = (resolved.label || 'Play') + siteSuffix;
+      }
+      var desc = (game && game.seo && game.seo.description) ? game.seo.description : ('Play ' + (resolved.label||'games') + ' on Unblocked Games 2026.');
+      setMetaDescription(desc);
+      setCanonical((location.origin ? (location.origin + location.pathname + location.search) : location.href));
+      if(game && game.content && game.content.article_html){
+        renderArticle(game.content.article_html);
+      }else{
+        renderArticle('');
       }
     }catch(e){}
   }
-
-
-  function setText(el, v){ if(el) el.textContent = v; }
-  function setHref(el, v){ if(el) el.href = v; }
-  function setSrc(el, v){ if(el) el.src = v; }
 
   function resolveById(rawId){
     try{
@@ -127,6 +98,19 @@
     }catch(e){ cb(e); }
   }
 
+
+  function attachGameFromURL(finalUrl, cb){
+    fetchJSON('assets/data/games.json', function(err, games){
+      if(err || !games) return cb(null);
+      for(var i=0;i<games.length;i++){
+        if(games[i].game_url === finalUrl || (games[i].slug && (finalUrl.indexOf(games[i].slug) !== -1))){
+          return cb(games[i]);
+        }
+      }
+      cb(null);
+    });
+  }
+
   function resolveLesson(lessonId, cb){
     fetchJSON('assets/data/games.json', function(err, games){
       if(err || !games){ return cb(null, { url:'', label:'Lesson '+lessonId, icon:'' }); }
@@ -137,18 +121,18 @@
         if (plan.game_url){
           var g = null;
           for(var j=0;j<games.length;j++){ if(games[j].game_url === plan.game_url){ g = games[j]; break; } }
-          return cb(null, { url: plan.game_url, label: plan.label || (g ? g.label : ('Lesson '+lessonId)), icon: (g ? (g.game_image_icon || '') : '') });
+          return cb(null, { url: plan.game_url, label: plan.label || (g ? g.label : ('Lesson '+lessonId)), icon: (g ? (g.game_image_icon || '') : ''), game: g });
         }
         if (plan.label && byLabel[plan.label]){
           var g2 = byLabel[plan.label];
-          return cb(null, { url: g2.game_url, label: g2.label, icon: (g2.game_image_icon || '') });
+          return cb(null, { url: g2.game_url, label: g2.label, icon: (g2.game_image_icon || ''), game: g2 });
         }
         return cb(null, { url:'', label:'Lesson '+lessonId, icon:'' });
       }
       var n = parseInt(lessonId,10);
       if(!isNaN(n) && n>=1 && n<=games.length){
         var g3 = games[n-1];
-        return cb(null, { url: g3.game_url, label: g3.label, icon: (g3.game_image_icon || '') });
+        return cb(null, { url: g3.game_url, label: g3.label, icon: (g3.game_image_icon || ''), game: g3 });
       }
       return cb(null, { url:'', label:'Lesson '+lessonId, icon:'' });
     });
@@ -161,14 +145,11 @@
     }
     function afterLesson(){
       if(!resolved.url && urlParam){
-        resolved = { url: urlParam, label: labelParam || 'Game', icon: '' };
+        resolved = { url: urlParam, label: labelParam || 'Game', icon: '', game: null };
+        attachGameFromURL(urlParam, function(gx){ if(gx){ resolved.game = gx; applySEO(gx); } });
       }
       setText(gname, resolved.label || 'Game');
-      loadGames(function(_e, list){
-        var gm = findGameMeta(resolved, list);
-        if(gm) applySEOFromGame(gm);
-        else applySEOFromGame({label: resolved.label});
-      });
+      applySEO(resolved.game || null);
       if(gcover){
         if(resolved.icon){ gcover.style.display='block'; setSrc(gcover, resolved.icon); }
         else { gcover.style.display='none'; }
@@ -222,6 +203,8 @@
     openNew.addEventListener('click', function(e){
       e.preventDefault();
       // Compute finalUrl synchronously (fallback to oyunlar map by id)
+      var useCloak = true;
+      try{ if(window.UG2026 && typeof UG2026.get==='function'){ useCloak = !!UG2026.get('ug2026_cloak', true); } }catch(_e){}
       var finalUrl = resolved.url;
       if(!finalUrl){
         var map = window.oyunlar || {};

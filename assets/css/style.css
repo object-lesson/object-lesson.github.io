@@ -162,9 +162,13 @@ body{
 }
 
 
-/* SEO article section (game page) */
-.seo-section{max-width:1200px;margin:18px auto 0;padding:0 12px;}
-.seo-title{margin:0 0 10px 0;font-size:20px;}
-.seo-article{background:rgba(255,255,255,0.03);border:1px solid rgba(255,255,255,0.08);border-radius:12px;padding:14px;line-height:1.6;}
-.seo-article h2{margin:14px 0 8px 0;font-size:18px;}
+/* SEO article block */
+.seo-article{max-width:1200px;margin:18px auto;padding:16px;background:#fff;border-radius:10px;box-shadow:0 0 8px rgba(0,0,0,.08);}
+.seo-article h2{margin:14px 0 8px;}
+.seo-article p{line-height:1.55;margin:8px 0;}
 .seo-article ul{margin:8px 0 8px 18px;}
+
+/* Dark theme */
+.theme-dark body{background:#0f1216;color:#e7e7e7;}
+.theme-dark .seo-article{background:#151a21;color:#e7e7e7;}
+.theme-dark a{color:inherit;}

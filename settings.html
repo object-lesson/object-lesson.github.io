@@ -1,63 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Settings | unblocked-2026.github.io</title>
-  <meta name="description" content="Customize your unblocked-2026.github.io experience: theme and player preferences."/>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Settings | Unblocked Games 2026</title>
+  <meta name="description" content="Customize your experience on Unblocked Games 2026."/>
   <link rel="icon" type="image/png" href="assets/img/logo.png"/>
-  <link rel="stylesheet" href="assets/css/style.css?v=2026"/>
+  <link rel="stylesheet" href="assets/css/style.css?7ss"/>
 </head>
 <body>
-  <div class="wrap">
-    <header class="topbar">
-      <a class="brand" href="index.html">
-        <img alt="Logo" src="assets/img/logo.png" width="28" height="28" />
-        <span>unblocked-2026.github.io</span>
-      </a>
-      <nav class="nav">
-        <a href="index.html">Home</a>
-        <a href="search.html">Search</a>
-        <a href="settings.html" aria-current="page">Settings</a>
-        <a href="about.html">About</a>
-      </nav>
-    </header>
+  <header class="topbar">
+    <div class="brand">
+      <a href="/" class="brand-link">Unblocked Games 2026</a>
+    </div>
+    <nav id="main-nav" class="main-nav">
+      <a href="/">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+      <a href="settings.html">Settings</a>
+    </nav>
+  </header>
 
-    <main style="max-width:900px;margin:18px auto;padding:0 12px;">
-      <h1 style="margin:0 0 10px 0;">Settings</h1>
-      <p class="small">These preferences are saved in your browser (localStorage).</p>
+  <main class="wrap" style="max-width:1200px;margin:0 auto;padding:18px;">
+    <h1 style="margin:10px 0 14px;">Settings</h1>
 
-      <div class="card" style="padding:14px;border-radius:12px;border:1px solid rgba(255,255,255,0.08);background:rgba(255,255,255,0.03);">
-        <h2 style="margin:0 0 8px 0;font-size:18px;">Theme</h2>
-        <label style="display:flex;gap:10px;align-items:center;">
-          <input type="checkbox" id="themeToggle" />
-          <span>Use light theme</span>
-        </label>
+    <div class="seo-article">
+      <h2>New Tab Mode</h2>
+      <p>Choose how <strong>Open in New Tab</strong> behaves on game pages.</p>
+      <label style="display:flex;gap:10px;align-items:center;margin:10px 0;">
+        <input type="checkbox" id="cloakToggle"/>
+        <span>Use about:blank cloak (hide the game URL)</span>
+      </label>
 
-        <hr style="border:none;border-top:1px solid rgba(255,255,255,0.08);margin:14px 0;">
+      <h2>Theme</h2>
+      <p>Switch between light and dark mode.</p>
+      <label style="display:flex;gap:10px;align-items:center;margin:10px 0;">
+        <input type="checkbox" id="darkToggle"/>
+        <span>Enable dark mode</span>
+      </label>
 
-        <h2 style="margin:0 0 8px 0;font-size:18px;">Player</h2>
-        <label style="display:flex;gap:10px;align-items:center;margin-bottom:8px;">
-          <input type="checkbox" id="prefFullscreen" />
-          <span>Prefer fullscreen button</span>
-        </label>
-        <label style="display:flex;gap:10px;align-items:center;">
-          <input type="checkbox" id="prefOpenNew" />
-          <span>Show “Open in New Tab” (about:blank)</span>
-        </label>
+      <h2>Reset</h2>
+      <button id="resetBtn" class="button" style="width:auto;">Reset Settings</button>
+    </div>
+  </main>
 
-        <p class="small" style="margin-top:10px;opacity:.9;">
-          Note: Some games may still force a specific behavior for compatibility.
-        </p>
-      </div>
-    </main>
+  <script src="assets/js/site_settings.js"></script>
+  <script>
+    (function(){
+      var cloak = document.getElementById('cloakToggle');
+      var dark = document.getElementById('darkToggle');
+      var reset = document.getElementById('resetBtn');
 
-    <footer class="footer small">
-      © <span id="year"></span> Unblocked. Fast • Minimal • No trackers
-    </footer>
-  </div>
-
-  <script src="assets/js/site_settings.js?v=2026"></script>
-  <script src="assets/js/user_settings.js?v=2026"></script>
+      function sync(){
+        cloak.checked = !!UG2026.get('ug2026_cloak', true);
+        dark.checked = (UG2026.get('ug2026_theme','light') === 'dark');
+      }
+      cloak.addEventListener('change', function(){ UG2026.set('ug2026_cloak', cloak.checked); });
+      dark.addEventListener('change', function(){ UG2026.set('ug2026_theme', dark.checked ? 'dark' : 'light'); });
+      reset.addEventListener('click', function(){
+        try{
+          localStorage.removeItem('ug2026_cloak');
+          localStorage.removeItem('ug2026_theme');
+        }catch(e){}
+        sync();
+        location.reload();
+      });
+      sync();
+    })();
+  </script>
 </body>
 </html>
