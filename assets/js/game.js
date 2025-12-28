@@ -17,6 +17,84 @@
 
   var resolved = { url: '', label: '', icon: '' };
 
+  var gamesCache = null;
+
+  function setMetaDescription(text){
+    try{
+      var m = document.querySelector('meta[name="description"]');
+      if(!m){
+        m = document.createElement('meta');
+        m.setAttribute('name','description');
+        document.head.appendChild(m);
+      }
+      m.setAttribute('content', text || '');
+    }catch(e){}
+  }
+
+  function setCanonical(url){
+    try{
+      var link = document.querySelector('link[rel="canonical"]');
+      if(!link){
+        link = document.createElement('link');
+        link.setAttribute('rel','canonical');
+        document.head.appendChild(link);
+      }
+      link.setAttribute('href', url || '');
+    }catch(e){}
+  }
+
+  function loadGames(cb){
+    if(gamesCache){ return cb(null, gamesCache); }
+    fetchJSON('assets/data/games.json', function(err, games){
+      if(!err && games && games.length){ gamesCache = games; }
+      cb(err, gamesCache || []);
+    });
+  }
+
+  function findGameMeta(resolved, games){
+    try{
+      if(!games || !games.length) return null;
+      var label = (resolved && resolved.label) ? String(resolved.label) : '';
+      var url = (resolved && resolved.url) ? String(resolved.url) : '';
+      // match by exact url first, then label
+      for(var i=0;i<games.length;i++){
+        if(url && games[i].game_url && String(games[i].game_url) === url) return games[i];
+      }
+      for(var j=0;j<games.length;j++){
+        if(label && games[j].label && String(games[j].label) === label) return games[j];
+      }
+      return null;
+    }catch(e){ return null; }
+  }
+
+  function applySEOFromGame(g){
+    try{
+      var settings = window.SITE_SETTINGS || {};
+      var suffix = settings.title_suffix || '';
+      var title = (g && g.seo && g.seo.title) ? g.seo.title : (g && g.label ? (g.label + ' Unblocked') : 'Play');
+      if(suffix && title.indexOf(suffix) === -1) title = title + suffix;
+      document.title = title;
+
+      var desc = (g && g.seo && g.seo.description) ? g.seo.description : (settings.default_description || '');
+      if(desc) setMetaDescription(desc);
+
+      // canonical -> game.html?id=...
+      try{
+        var params = new URLSearchParams(location.search);
+        var idp = params.get('id');
+        var canon = (settings.base_url || location.origin) + '/game.html' + (idp ? ('?id=' + encodeURIComponent(idp)) : '');
+        setCanonical(canon);
+      }catch(e){}
+
+      // Article injection
+      var container = document.getElementById('seo-article');
+      if(container && g && g.content && g.content.article_html){
+        container.innerHTML = g.content.article_html;
+      }
+    }catch(e){}
+  }
+
+
   function setText(el, v){ if(el) el.textContent = v; }
   function setHref(el, v){ if(el) el.href = v; }
   function setSrc(el, v){ if(el) el.src = v; }
@@ -86,6 +164,11 @@
         resolved = { url: urlParam, label: labelParam || 'Game', icon: '' };
       }
       setText(gname, resolved.label || 'Game');
+      loadGames(function(_e, list){
+        var gm = findGameMeta(resolved, list);
+        if(gm) applySEOFromGame(gm);
+        else applySEOFromGame({label: resolved.label});
+      });
       if(gcover){
         if(resolved.icon){ gcover.style.display='block'; setSrc(gcover, resolved.icon); }
         else { gcover.style.display='none'; }

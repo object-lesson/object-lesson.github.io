@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Settings | unblocked-2026.github.io</title>
+  <meta name="description" content="Customize your unblocked-2026.github.io experience: theme and player preferences."/>
+  <link rel="icon" type="image/png" href="assets/img/logo.png"/>
+  <link rel="stylesheet" href="assets/css/style.css?v=2026"/>
+</head>
+<body>
+  <div class="wrap">
+    <header class="topbar">
+      <a class="brand" href="index.html">
+        <img alt="Logo" src="assets/img/logo.png" width="28" height="28" />
+        <span>unblocked-2026.github.io</span>
+      </a>
+      <nav class="nav">
+        <a href="index.html">Home</a>
+        <a href="search.html">Search</a>
+        <a href="settings.html" aria-current="page">Settings</a>
+        <a href="about.html">About</a>
+      </nav>
+    </header>
+
+    <main style="max-width:900px;margin:18px auto;padding:0 12px;">
+      <h1 style="margin:0 0 10px 0;">Settings</h1>
+      <p class="small">These preferences are saved in your browser (localStorage).</p>
+
+      <div class="card" style="padding:14px;border-radius:12px;border:1px solid rgba(255,255,255,0.08);background:rgba(255,255,255,0.03);">
+        <h2 style="margin:0 0 8px 0;font-size:18px;">Theme</h2>
+        <label style="display:flex;gap:10px;align-items:center;">
+          <input type="checkbox" id="themeToggle" />
+          <span>Use light theme</span>
+        </label>
+
+        <hr style="border:none;border-top:1px solid rgba(255,255,255,0.08);margin:14px 0;">
+
+        <h2 style="margin:0 0 8px 0;font-size:18px;">Player</h2>
+        <label style="display:flex;gap:10px;align-items:center;margin-bottom:8px;">
+          <input type="checkbox" id="prefFullscreen" />
+          <span>Prefer fullscreen button</span>
+        </label>
+        <label style="display:flex;gap:10px;align-items:center;">
+          <input type="checkbox" id="prefOpenNew" />
+          <span>Show “Open in New Tab” (about:blank)</span>
+        </label>
+
+        <p class="small" style="margin-top:10px;opacity:.9;">
+          Note: Some games may still force a specific behavior for compatibility.
+        </p>
+      </div>
+    </main>
+
+    <footer class="footer small">
+      © <span id="year"></span> Unblocked. Fast • Minimal • No trackers
+    </footer>
+  </div>
+
+  <script src="assets/js/site_settings.js?v=2026"></script>
+  <script src="assets/js/user_settings.js?v=2026"></script>
+</body>
+</html>
