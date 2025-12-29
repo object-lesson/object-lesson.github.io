@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html data-bs-theme="light" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0, shrink-to-fit=no" name="viewport"/>
+<title>Privacy Policy</title>
+<meta content="Unblocked games 66 on Unblocked Games 76! Fun, accessible games you can enjoy anywhere, including school or work. No downloads, just instant gaming!" name="description"/>
+<link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="/assets/css/Inter.css" rel="stylesheet"/>
+<link href="/assets/css/styles.css" rel="stylesheet"/>
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-5Q28Z4RCKL"></script>
+<script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+
+            gtag("config", "G-5Q28Z4RCKL");
+        </script>
+</head>
+<body>
+<header>
+<nav class="navbar navbar-expand-lg bg-body">
+<div class="container-fluid"><button class="navbar-toggler border-0 shadow-none" data-bs-target="#navcol-1" data-bs-toggle="collapse"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button><a class="navbar-brand me-lg-4" href="/"><img alt="" height="30" src=""/></a><button class="navbar-toggler border-0 shadow-none" data-bs-target="#navcol-1" data-bs-toggle="collapse"><svg class="bi bi-search" fill="currentColor" height="1em" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"></path>
+</svg></button>
+<div class="collapse navbar-collapse" id="navcol-1">
+<div class="category-btn"><a href="/">HOME</a><a href="/category/all.html">ALL GAMES</a></div>
+</div>
+</nav>
+</header>
+<main>
+<div class="banner-ad-wrapper"><div class="banner-ad-content" style="padding: 20px; text-align: center;">
+
+</div>
+
+
+
+
+</main>
+
+<section class="artworks-area pt-110 pb-60">
+<div class="container c-container-1">
+<div class="row"><div class="col-12">
+<div class="section-title text-center mb-40"><h2>Privacy Policy</h2></div>
+<div class="blog-details-content"><p>We may use analytics and advertising partners to understand performance and show relevant ads. These partners may use cookies or similar technologies. You can manage cookies in your browser settings.</p></div>
+</div></div>
+</div>
+</section><footer class="mt-auto footer">
+<div class="container-fluid">
+<div class="row align-items-center py-2">
+<div class="col-12 col-md-6 col-lg-4">
+<div class="fs-xs"><span>Copyright © 2025 Unblocked Games 76, All rights reserved.</span>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-8 d-md-flex justify-content-end">
+<ul class="nav">
+<li class="nav-item"><a class="nav-link active" href="/privacy/">Privacy Policy</a></li>
+<li class="nav-item"><a class="nav-link" href="/terms/">Terms and Conditions</a></li>
+<li class="nav-item"><a class="nav-link" href="/contact/">Contact Us</a></li>
+<li class="nav-item"><a class="nav-link" href="/sitemaps.xml">Sitemaps</a></li>
+</ul>
+</div>
+</div>
+</div>
+</footer>
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/bootstrap/js/bootstrap.min.js"></script>
+<script src="/assets/js/bs-init.js"></script>
+
+
+<script src="/assets/js/search_v1_0.js"></script>
+</body>
+</html>

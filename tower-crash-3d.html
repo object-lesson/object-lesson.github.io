@@ -222,7 +222,7 @@ try{
     const game=games.find(x=>x.slug===slug)||games[0];
     if(!game) return;
 
-    document.title=(game.name||'Game')+' | 247 Games';
+    document.title=(game.name||'Game')+' | Online Games';
     const h1=document.querySelector('h1');
     if(h1) h1.textContent=game.name||'Game';
 
