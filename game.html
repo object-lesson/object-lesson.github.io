@@ -486,8 +486,8 @@ aim lol, justaim lol, justedit lol.</p>
 <script src="/assets/js/jquery.min.js"></script>
 <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
 <script src="/assets/js/bs-init.js"></script>
-
-
+<script src="/assets/js/adsense_ubg66_v1.js"></script>
+<script src="/assets/js/analytics_ubg235_v1_0.js"></script>
 <script src="/assets/js/search_v1_0.js"></script>
 <script>
 (async function(){
@@ -512,7 +512,7 @@ aim lol, justaim lol, justedit lol.</p>
       md.content = about ? about.slice(0,160) : ('Play ' + game.name + ' online in your browser—no downloads.');
     }
 
-    const thumb = game.thumb || game.image || game.img || '';
+    const thumb = (game.thumb || game.image || game.img || '');
     if(thumb){
       const og = document.querySelector('meta[property="og:image"]');
       if(og) og.content = thumb;
