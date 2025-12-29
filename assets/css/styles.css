@@ -245,7 +245,7 @@ h4, .h4 {
   -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
   overflow: hidden;
-  font-weight: 300;
+  font-weight: 4000;
   color: #000;
   background-color: rgba(243, 237, 237, 90%);
   text-align: left;
