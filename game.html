@@ -9,7 +9,7 @@
 <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/assets/css/Inter.css" rel="stylesheet"/>
 <link href="/assets/css/styles.css" rel="stylesheet"/>
-<meta content="" property="og:image"/><meta content="" name="twitter:image"/></head>
+<meta content="" property="og:image"/><meta content="" name="twitter:image"/><meta property="og:title"/><meta property="og:description"/><meta content="website" property="og:type"/><meta property="og:url"/><meta content="summary_large_image" name="twitter:card"/><meta name="twitter:title"/><meta name="twitter:description"/><link rel="canonical"/></head>
 <body>
 <header>
 <nav class="navbar navbar-expand-lg bg-body">
@@ -38,9 +38,6 @@
 <div class="row">
 <div class="col-lg-auto d-none d-xxl-block">
 <div class="w-lg-300">
-
-
-
 <div class="ad-slot ad-slot--empty" data-ad-label="Left Rail" data-ad-size="300x600" id="ad-left-rail"></div></div>
 </div>
 <div class="col-lg">
@@ -224,7 +221,63 @@ aim lol, justaim lol, justedit lol.</p>
     el.innerHTML=list.map(cardHtml).join('');
   }
 
-  try{
+  function cleanText(t){
+    return (t||'').toString().replace(/\s+/g,' ').trim();
+  }
+  function buildTitle(game){
+    const name = cleanText(game.name||'Game');
+    const cat = cleanText(game.catagory||'').toLowerCase();
+    const catNice = cat ? (cat.charAt(0).toUpperCase()+cat.slice(1)) : 'Unblocked';
+    return `${name} Unblocked | Play ${catNice} Game Online`;
+  }
+  function buildDescription(game){
+    const name = cleanText(game.name||'Game');
+    const cat = cleanText(game.catagory||'').toLowerCase();
+    const catNice = cat ? (cat.charAt(0).toUpperCase()+cat.slice(1)) : 'Unblocked';
+    const about = cleanText(game.about||'');
+    // target 150-160 chars; prefer about, but force keywords
+    let base = about ? about : `Play ${name} online in your browser.`;
+    base = base.replace(/\.$/,'');
+    let desc = `${base}. ${name} unblocked — ${catNice} game. No download, no install.`;
+    if(desc.length > 165){
+      desc = desc.slice(0,162).replace(/\s+\S*$/,'') + '…';
+    }
+    return desc;
+  }
+  function setMetaAll(game){
+    const title = buildTitle(game);
+    const desc = buildDescription(game);
+    document.title = title;
+
+    const h1 = document.querySelector('h1');
+    if(h1) h1.textContent = cleanText(game.name||'Game');
+
+    const md = document.querySelector('meta[name="description"]');
+    if(md) md.content = desc;
+
+    const ogt = document.querySelector('meta[property="og:title"]');
+    if(ogt) ogt.content = title;
+    const ogd = document.querySelector('meta[property="og:description"]');
+    if(ogd) ogd.content = desc;
+    const ogi = document.querySelector('meta[property="og:image"]');
+    if(ogi && game.thumb) ogi.content = game.thumb;
+
+    const twt = document.querySelector('meta[name="twitter:title"]');
+    if(twt) twt.content = title;
+    const twd = document.querySelector('meta[name="twitter:description"]');
+    if(twd) twd.content = desc;
+    const twi = document.querySelector('meta[name="twitter:image"]');
+    if(twi && game.thumb) twi.content = game.thumb;
+
+    const url = window.location.origin + `/game.html?g=${encodeURIComponent(game.slug)}`;
+    const ogu = document.querySelector('meta[property="og:url"]');
+    if(ogu) ogu.content = url;
+
+    const canon = document.querySelector('link[rel="canonical"]');
+    if(canon) canon.href = url;
+  }
+
+try{
     const res=await fetch('/assets/static/my_games.json', {cache:'no-store'});
     const data=await res.json();
     const games=data.games||[];
