@@ -159,7 +159,7 @@ h4, .h4 {
 }
 
 .card-masonry .card-collection .card-collection-body {
-  background-color: var(--bs-gray-200);
+  background:#000;
   display: flex;
   align-items: center;
   flex-direction: row;
