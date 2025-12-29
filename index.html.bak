@@ -28,7 +28,13 @@
 <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"></path>
 </svg></button>
 <div class="collapse navbar-collapse" id="navcol-1">
-<div class="category-btn"><a href="/">HOME</a><a href="/category/trending.html">Trending</a></div>
+<div class="category-btn"><a href="/category/new.html">New</a><a href="/category/trending.html">Trending</a></div><a class="social" href="https://discord.com/invite/gUeBzA2jaF" title="Join Us on Discord">
+<div class="social-button"><img src="/assets/img/discord-icon.svg"/></div>
+</a><a class="social" href="https://www.facebook.com/Games235/" title="Follow Me on Facebook">
+<div class="social-button"><img src="/assets/img/facebook.svg"/></div>
+</a><a class="social" href="https://www.youtube.com/@ubg235" title="Follow Me on YouTube">
+<div class="social-button"><img src="/assets/img/youtube-color.svg"/></div>
+</a>
 <div class="form-search ms-xl-4 mb-3 mb-lg-0">
 <div class="input-group shadow-none input-group-inline"><span class="bg-transparent border-0 shadow-none input-group-text input-group-text text-gray-500 ps-0 pe-3"><svg class="bi bi-search" fill="currentColor" height="1em" id="search-button" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"></path></svg></span><input class="bg-transparent border-0 shadow-none form-control form-control ps-0" id="search-input" placeholder="Text to search..." type="text"/></div>
 </div>
@@ -48,7 +54,16 @@
 </header>
 <main>
 <div class="banner-ad-wrapper"><div class="banner-ad-content" style="padding: 20px; text-align: center;">
-
+<script type="text/javascript">
+  atOptions = {
+  	'key' : '2141b3160a958e07de77e199d114a370',
+  	'format' : 'iframe',
+  	'height' : 250,
+  	'width' : 300,
+  	'params' : {}
+  };
+</script>
+<script src="//loginrubbishobey.com/2141b3160a958e07de77e199d114a370/invoke.js" type="text/javascript"></script>
 </div>
 </div>
 <section class="pt-4 pb-5">
