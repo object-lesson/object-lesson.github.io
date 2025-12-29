@@ -22,7 +22,7 @@
         "Numbers / Certain Letters: Switch Weapons / Materials",
         "Esc: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/1v1lol/splash.png",
+      "thumb": "splash.png",
       "download": true,
       "slug": "1v1-lol"
     },
@@ -44,7 +44,7 @@
         "R: Reload",
         "Esc: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/10-minutes-till-dawn/splash.png",
+      "thumb": "splash.png",
       "slug": "10-minutes-till-dawn"
     },
     {
@@ -62,7 +62,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/adam-eve/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "adam-and-eve-5-part-1"
     },
     {
@@ -80,7 +80,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/adam-eve-2/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "adam-and-eve-5-part-2"
     },
     {
@@ -98,7 +98,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/adarkroom/splash.png",
+      "thumb": "splash.png",
       "download": true,
       "slug": "a-dark-room"
     },
@@ -117,7 +117,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/alienhominid/alienhominid.jpg",
+      "thumb": "alienhominid.jpg",
       "slug": "alien-hominid"
     },
     {
@@ -135,7 +135,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/amidst-the-clouds/splash.png",
+      "thumb": "splash.png",
       "slug": "amidst-the-clouds"
     },
     {
@@ -153,7 +153,7 @@
       "controls": [
         "Mouse: Swim"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/angry-sharks/assets/favicon/icon-512x512.png",
+      "thumb": "assets/favicon/icon-512x512.png",
       "slug": "angry-sharks"
     },
     {
@@ -172,7 +172,7 @@
         "Drag: Aim",
         "Release: shoot"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/apple-shooter/Untitled.jpg",
+      "thumb": "Untitled.jpg",
       "slug": "apple-shooter"
     },
     {
@@ -191,7 +191,7 @@
         "Arrow / WASD Keys: Move",
         "Drag: Move"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/arcane-archer/logo.avif",
+      "thumb": "logo.avif",
       "slug": "arcane-archer"
     },
     {
@@ -209,7 +209,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/avalanche/avalanche.png",
+      "thumb": "avalanche.png",
       "slug": "avalanche"
     },
     {
@@ -230,7 +230,7 @@
         "Mouse: Aim",
         "Number Keys: Switch Weapons"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/awesome-tanks-2/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "awesome-tanks-2"
     },
     {
@@ -249,7 +249,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/backrooms/img/splash.jpg",
+      "thumb": "img/splash.jpg",
       "slug": "backrooms"
     },
     {
@@ -267,7 +267,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/backrooms-2d/Backrooms2D.png",
+      "thumb": "Backrooms2D.png",
       "slug": "backrooms-2d"
     },
     {
@@ -285,7 +285,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/bacon-may-die/BaconMayDie.png",
+      "thumb": "BaconMayDie.png",
       "slug": "bacon-may-die"
     },
     {
@@ -303,7 +303,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/blackknight/blackknight.png",
+      "thumb": "blackknight.png",
       "slug": "black-knight"
     },
     {
@@ -324,7 +324,7 @@
         "M: Jump (Player 2)",
         "R: Restart"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/blumgi-slime/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "blumgi-slime"
     },
     {
@@ -342,7 +342,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/bobtherobber2/splash.jpeg",
+      "thumb": "splash.jpeg",
       "slug": "bob-the-robber-2"
     },
     {
@@ -363,7 +363,7 @@
         "WASD Keys: Move (Player 2)",
         "Enter: Drop Bomb (Player 2)"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/bomb-it-7/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "bomb-it-7"
     },
     {
@@ -381,7 +381,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/boxhead2play/boxhead2play.jpg",
+      "thumb": "boxhead2play.jpg",
       "slug": "box-head"
     },
     {
@@ -399,7 +399,7 @@
       "controls": [
         "Space Bar / Up Arrow / Click: Jump"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/boxel-rebound/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "boxel-rebound"
     },
     {
@@ -418,7 +418,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/champion-island/splash.png",
+      "thumb": "splash.png",
       "slug": "champion-island"
     },
     {
@@ -436,7 +436,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/championarcher/championarcher.png",
+      "thumb": "championarcher.png",
       "slug": "champion-archer"
     },
     {
@@ -454,7 +454,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/craftmine/images/craftmine.png",
+      "thumb": "images/craftmine.png",
       "slug": "craftmine"
     },
     {
@@ -473,7 +473,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/creativekillchamber/creativekillchamber.jpg",
+      "thumb": "creativekillchamber.jpg",
       "slug": "creative-kill-chamber"
     },
     {
@@ -491,7 +491,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/cubefield/assets/unnamed.png",
+      "thumb": "assets/unnamed.png",
       "download": true,
       "slug": "cubefield"
     },
@@ -511,7 +511,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/dante/splash.png",
+      "thumb": "splash.png",
       "download": true,
       "slug": "dante"
     },
@@ -532,7 +532,7 @@
         "R / Space: Reload",
         "Click: Shoot"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/dead-again/thumb.png",
+      "thumb": "thumb.png",
       "slug": "dead-again"
     },
     {
@@ -550,7 +550,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/death-run-3d/img/death.png",
+      "thumb": "img/death.png",
       "slug": "death-run-3d"
     },
     {
@@ -568,7 +568,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/defend-the-tank/images/splash.jpg",
+      "thumb": "images/splash.jpg",
       "slug": "defend-the-tank"
     },
     {
@@ -586,7 +586,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/dodge/Dodge.png",
+      "thumb": "Dodge.png",
       "download": true,
       "slug": "dodge"
     },
@@ -606,7 +606,7 @@
         "Left Arrow / Click Left: Go Left",
         "Right Arrow / Click Right: Go Right"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/down-the-hill/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "down-the-hill"
     },
     {
@@ -624,7 +624,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/dragon-vs-bricks/icon.jpg",
+      "thumb": "icon.jpg",
       "slug": "dragon-vs-bricks"
     },
     {
@@ -642,7 +642,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/endlesswar3/endlesswar3.png",
+      "thumb": "endlesswar3.png",
       "slug": "endless-war-3"
     },
     {
@@ -660,7 +660,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/evil-glitch/evil.png",
+      "thumb": "evil.png",
       "download": true,
       "slug": "evil-glitch"
     },
@@ -679,7 +679,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/fancypantsadventures/fancypantsadventure.png",
+      "thumb": "fancypantsadventure.png",
       "slug": "fancy-pants-adventures"
     },
     {
@@ -698,7 +698,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/fireboywatergirlforesttemple/logo.jpeg",
+      "thumb": "logo.jpeg",
       "slug": "fireboy-and-watergirl"
     },
     {
@@ -716,7 +716,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/fnaf/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "five-nights-at-freddy-s"
     },
     {
@@ -734,7 +734,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/fnaw/splash.png",
+      "thumb": "splash.png",
       "slug": "five-nights-at-winston-s"
     },
     {
@@ -752,7 +752,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/froggys-battle/splash.png",
+      "thumb": "splash.png",
       "slug": "froggy-s-battle"
     },
     {
@@ -770,7 +770,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/frying-nemo/splash.png",
+      "thumb": "splash.png",
       "slug": "frying-nemo"
     },
     {
@@ -789,7 +789,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/funnyshooter2/thumb.png",
+      "thumb": "thumb.png",
       "slug": "funny-shooter-2"
     },
     {
@@ -807,7 +807,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/generic-fishing-game/splash.png",
+      "thumb": "splash.png",
       "slug": "generic-fishing-game"
     },
     {
@@ -825,7 +825,7 @@
       "controls": [
         "Click: Jump"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/geometry-dash/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "geometry-dash-classic"
     },
     {
@@ -843,7 +843,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/geodash/geoscratchicon.png",
+      "thumb": "geoscratchicon.png",
       "download": true,
       "slug": "geometry-dash-scratch"
     },
@@ -863,7 +863,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/getaway-shootout/img/images.jpg",
+      "thumb": "img/images.jpg",
       "slug": "getaway-shootout"
     },
     {
@@ -881,7 +881,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/gimme-the-airpod/img/logo.png",
+      "thumb": "img/logo.png",
       "slug": "gimme-the-airpod"
     },
     {
@@ -903,7 +903,7 @@
         "P: Pause",
         "Note: WASD keys also work"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/gobdun/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "gobdun"
     },
     {
@@ -921,7 +921,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/goodnight/goodnight.jpg",
+      "thumb": "goodnight.jpg",
       "slug": "goodnight"
     },
     {
@@ -939,7 +939,7 @@
       "controls": [
         "Click: Change Direction"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/groovy-ski/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "groovy-ski"
     },
     {
@@ -958,7 +958,7 @@
         "Any Key: Flip Gravity",
         "Esc: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/gswitch/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "g-switch"
     },
     {
@@ -977,7 +977,7 @@
         "Any Key: Flip Gravity",
         "Esc: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/gswitch-2/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "g-switch-2"
     },
     {
@@ -996,7 +996,7 @@
         "Any Key: Flip Gravity",
         "Esc: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/gswitch-3/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "g-switch-3"
     },
     {
@@ -1014,7 +1014,7 @@
       "controls": [
         "Click: Fly Up"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/helicopter/helicopter.png",
+      "thumb": "helicopter.png",
       "slug": "helicopter"
     },
     {
@@ -1033,7 +1033,7 @@
         "Drag: Move",
         "Drop: Hide"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/hide-and-smash/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "hide-and-smash"
     },
     {
@@ -1051,7 +1051,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/hungry-lamu/splash.png",
+      "thumb": "splash.png",
       "slug": "hungry-lamu"
     },
     {
@@ -1073,7 +1073,7 @@
         "Space: Turbo / Shoot",
         "Note: WASD keys and dragging also work"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/infinite-soccer/logo.avif",
+      "thumb": "logo.avif",
       "slug": "inifnite-soccer"
     },
     {
@@ -1091,7 +1091,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/iron-snout/IronSnout.png",
+      "thumb": "IronSnout.png",
       "slug": "iron-snout"
     },
     {
@@ -1109,7 +1109,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/jetpack-joyride/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "jetpack-joyride"
     },
     {
@@ -1127,7 +1127,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/just-fall/unnamed.png",
+      "thumb": "unnamed.png",
       "slug": "justfall-lol"
     },
     {
@@ -1145,7 +1145,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/kitchen-gun-game/splash.png",
+      "thumb": "splash.png",
       "slug": "kitchen-gun-game"
     },
     {
@@ -1163,7 +1163,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/knife-master/512x512.jpg",
+      "thumb": "512x512.jpg",
       "slug": "knife-master"
     },
     {
@@ -1181,7 +1181,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/mario/Theme/Mario.gif",
+      "thumb": "Theme/Mario.gif",
       "download": true,
       "slug": "mario"
     },
@@ -1200,7 +1200,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/mario-bros/NewSuperMarioBros.png",
+      "thumb": "NewSuperMarioBros.png",
       "slug": "mario-bros"
     },
     {
@@ -1218,7 +1218,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/matrixrampage/matrixrampage.jpg",
+      "thumb": "matrixrampage.jpg",
       "slug": "matrix-rampage"
     },
     {
@@ -1236,7 +1236,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/mineblocks/splash.png",
+      "thumb": "splash.png",
       "slug": "mine-blocks"
     },
     {
@@ -1254,7 +1254,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/minecraft-15/splash.jpeg",
+      "thumb": "splash.jpeg",
       "slug": "minecraft-1-5"
     },
     {
@@ -1273,7 +1273,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/minecraft-18/splash.png",
+      "thumb": "splash.png",
       "slug": "minecraft-1-8"
     },
     {
@@ -1291,7 +1291,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/minecraft-classic/pack.png",
+      "thumb": "pack.png",
       "slug": "minecraft-classic"
     },
     {
@@ -1309,7 +1309,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/minecraftbeta/bg_main.png",
+      "thumb": "bg_main.png",
       "slug": "minecraft-classic-hacks"
     },
     {
@@ -1327,7 +1327,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/missiles/miss.png",
+      "thumb": "miss.png",
       "download": true,
       "slug": "missiles"
     },
@@ -1347,7 +1347,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/motox3m/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "moto-x3m"
     },
     {
@@ -1365,7 +1365,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/motox3m2/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "moto-x3m-2"
     },
     {
@@ -1383,7 +1383,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/motox3m-pool/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "moto-x3m-pool"
     },
     {
@@ -1401,7 +1401,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/motox3m-spooky/splash.jpeg",
+      "thumb": "splash.jpeg",
       "slug": "moto-x3m-spooky"
     },
     {
@@ -1419,7 +1419,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/motox3m-winter/download.jpeg",
+      "thumb": "download.jpeg",
       "slug": "moto-x3m-winter"
     },
     {
@@ -1437,7 +1437,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/n-gon/bot.png",
+      "thumb": "bot.png",
       "download": true,
       "slug": "n-gon"
     },
@@ -1456,7 +1456,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/ninjavsevilcorp/splash.png",
+      "thumb": "splash.png",
       "download": true,
       "slug": "ninja-vs-evil-corp"
     },
@@ -1475,7 +1475,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/ns-shaft/favicon.png",
+      "thumb": "favicon.png",
       "download": true,
       "slug": "ns-shaft"
     },
@@ -1494,7 +1494,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/OfflineParadise/assets/icon.jpeg",
+      "thumb": "assets/icon.jpeg",
       "slug": "offline-paradise"
     },
     {
@@ -1512,7 +1512,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/om-bounce/assets/icon.jpeg",
+      "thumb": "assets/icon.jpeg",
       "slug": "om-nom-bounce"
     },
     {
@@ -1530,7 +1530,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/paper-minecraft/PaperMinecraft.png",
+      "thumb": "PaperMinecraft.png",
       "slug": "paper-minecraft"
     },
     {
@@ -1548,7 +1548,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/pcraft/PCraft.png",
+      "thumb": "PCraft.png",
       "download": true,
       "slug": "p-craft"
     },
@@ -1567,7 +1567,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/papery-planes/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "papery-planes"
     },
     {
@@ -1585,7 +1585,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/pixel-gun-survival/512x512.png",
+      "thumb": "512x512.png",
       "slug": "pixel-gun-survival"
     },
     {
@@ -1603,7 +1603,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/polybranch/img/pic1.png",
+      "thumb": "img/pic1.png",
       "slug": "polybranch"
     },
     {
@@ -1621,7 +1621,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/protektor/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "protektor"
     },
     {
@@ -1639,7 +1639,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/rolling-forests/icon.png",
+      "thumb": "icon.png",
       "download": true,
       "slug": "rolling-forests"
     },
@@ -1658,7 +1658,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/rolly-vortex/icon-256.png",
+      "thumb": "icon-256.png",
       "slug": "rolly-vortex"
     },
     {
@@ -1676,7 +1676,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/rooftop-snipers/img/thumb.png",
+      "thumb": "img/thumb.png",
       "slug": "rooftop-snipers"
     },
     {
@@ -1694,7 +1694,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/shuttledeck/splash.png",
+      "thumb": "splash.png",
       "download": true,
       "slug": "shuttledeck"
     },
@@ -1723,7 +1723,7 @@
         "Scroll: Switch Weapons",
         "Tab: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/skibidi-strike/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "skibidi-strike"
     },
     {
@@ -1744,7 +1744,7 @@
         "Right Arrow: Go right",
         "Note: WASD keys also work"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/slope/slope4.jpeg",
+      "thumb": "slope4.jpeg",
       "slug": "slope"
     },
     {
@@ -1762,7 +1762,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/slope-2/slope-2-logo.png",
+      "thumb": "slope-2-logo.png",
       "slug": "slope-2"
     },
     {
@@ -1780,7 +1780,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/slope-ball/splash.png",
+      "thumb": "splash.png",
       "slug": "slope-ball"
     },
     {
@@ -1798,7 +1798,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/sm64/logo.png",
+      "thumb": "logo.png",
       "slug": "super-mario-64"
     },
     {
@@ -1816,7 +1816,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/smokingbarrels/smokingbarrels.jpg",
+      "thumb": "smokingbarrels.jpg",
       "slug": "smoking-barrels"
     },
     {
@@ -1834,7 +1834,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/snow-ride/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "snow-rider-3d"
     },
     {
@@ -1852,7 +1852,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/soldier-legend/images/splash.jpeg",
+      "thumb": "images/splash.jpeg",
       "slug": "soldier-legend"
     },
     {
@@ -1870,7 +1870,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/spacegarden/spl.png",
+      "thumb": "spl.png",
       "download": true,
       "slug": "space-garden"
     },
@@ -1889,7 +1889,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/stack/stack.png",
+      "thumb": "stack.png",
       "download": true,
       "slug": "stack"
     },
@@ -1908,7 +1908,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/stack-bump-3d/thumbnail.jpg",
+      "thumb": "thumbnail.jpg",
       "slug": "stack-bump-3d"
     },
     {
@@ -1926,7 +1926,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/station-141/75wxYs.png",
+      "thumb": "75wxYs.png",
       "slug": "station-141"
     },
     {
@@ -1944,7 +1944,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/stick-archers/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "stick-archers"
     },
     {
@@ -1962,7 +1962,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/stick-duel-battle/512x512.jpg",
+      "thumb": "512x512.jpg",
       "slug": "stick-duel-battle"
     },
     {
@@ -1980,7 +1980,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/stick-merge/splash.png",
+      "thumb": "splash.png",
       "slug": "stick-merge"
     },
     {
@@ -1998,7 +1998,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/stickman-boost/base/img1.jpg",
+      "thumb": "base/img1.jpg",
       "slug": "stickman-boost"
     },
     {
@@ -2021,7 +2021,7 @@
         "Space: Activate Hoverboard",
         "Esc: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/subway-surfers/img/splash.jpg",
+      "thumb": "img/splash.jpg",
       "slug": "subway-surfers"
     },
     {
@@ -2044,7 +2044,7 @@
         "Space: Activate Hoverboard",
         "Esc: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/subway-surfers-ny/NewYorkIcon.png",
+      "thumb": "NewYorkIcon.png",
       "slug": "subway-surfers-new-york"
     },
     {
@@ -2063,7 +2063,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/superhot/hot.jpg",
+      "thumb": "hot.jpg",
       "slug": "superhot"
     },
     {
@@ -2081,7 +2081,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/supermarioconstruct/media/icons/icon-128.png",
+      "thumb": "media/icons/icon-128.png",
       "slug": "super-mario-construct"
     },
     {
@@ -2099,7 +2099,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/synesthesia/index.splash.png",
+      "thumb": "index.splash.png",
       "slug": "synesthesia"
     },
     {
@@ -2117,7 +2117,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/tactical-weapon-pack-2/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "tactical-weapon-pack-2"
     },
     {
@@ -2135,7 +2135,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/tacticalassasin2/tacticalassassin2.png",
+      "thumb": "tacticalassassin2.png",
       "slug": "tactical-assassin-2"
     },
     {
@@ -2154,7 +2154,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/tag/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "tag"
     },
     {
@@ -2172,7 +2172,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/tank-trouble-2/tank.jpeg",
+      "thumb": "tank.jpeg",
       "slug": "tank-trouble-2"
     },
     {
@@ -2190,7 +2190,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/tanuki-sunset/img/cover.png",
+      "thumb": "img/cover.png",
       "slug": "tanuki-sunset"
     },
     {
@@ -2208,7 +2208,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/temple-run-2/img/og-icon.png",
+      "thumb": "img/og-icon.png",
       "slug": "temple-run-2"
     },
     {
@@ -2226,7 +2226,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/terraira/Terraira.png",
+      "thumb": "Terraira.png",
       "slug": "terraira"
     },
     {
@@ -2244,7 +2244,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/thisistheonlylevel/thisistheonlylevel.png",
+      "thumb": "thisistheonlylevel.png",
       "slug": "this-is-the-only-level"
     },
     {
@@ -2262,7 +2262,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/tiny-fishing/thumb.png",
+      "thumb": "thumb.png",
       "slug": "tiny-fishing"
     },
     {
@@ -2280,7 +2280,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/trimps/Trimps.png",
+      "thumb": "Trimps.png",
       "download": true,
       "slug": "trimps"
     },
@@ -2299,7 +2299,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/tube-jumpers/img/shark.jpg",
+      "thumb": "img/shark.jpg",
       "slug": "tube-jumpers"
     },
     {
@@ -2317,7 +2317,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/tunnel-rush/img/tunnel.jpg",
+      "thumb": "img/tunnel.jpg",
       "slug": "tunnel-rush"
     },
     {
@@ -2338,7 +2338,7 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/vex3/vex3.png",
+      "thumb": "vex3.png",
       "slug": "vex-3"
     },
     {
@@ -2359,7 +2359,7 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/vex4/vex4.png",
+      "thumb": "vex4.png",
       "slug": "vex-4"
     },
     {
@@ -2380,7 +2380,7 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/vex5/vex.jpeg",
+      "thumb": "vex.jpeg",
       "slug": "vex-5"
     },
     {
@@ -2401,7 +2401,7 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/vex6/assets/icon.jpeg",
+      "thumb": "assets/icon.jpeg",
       "slug": "vex-6"
     },
     {
@@ -2423,7 +2423,7 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/vex7/assets/icon.jpeg",
+      "thumb": "assets/icon.jpeg",
       "slug": "vex-7"
     },
     {
@@ -2444,7 +2444,7 @@
         "Left / Right Arros: Move Left / Right",
         "Note: WASD keys also work"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/vex8/assets/icon.png",
+      "thumb": "assets/icon.png",
       "slug": "vex-8"
     },
     {
@@ -2462,7 +2462,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/wolf3d/art/wolf3d.png",
+      "thumb": "art/wolf3d.png",
       "download": true,
       "slug": "wolfenstein-3d"
     },
@@ -2482,7 +2482,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/worlds-hardest-game/images/splash.jpg",
+      "thumb": "images/splash.jpg",
       "download": true,
       "slug": "world-s-hardest-game"
     },
@@ -2501,7 +2501,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
+      "thumb": "the-worlds-hardest-game-2.jpg",
       "download": true,
       "slug": "world-s-hardest-game-2"
     },
@@ -2520,7 +2520,7 @@
       "controls": [
         "Click: Spawn Nations"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/ages-of-conflict/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "ages-of-conflict"
     },
     {
@@ -2538,7 +2538,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/baldis-basics/splash.png",
+      "thumb": "splash.png",
       "slug": "baldi-s-basics"
     },
     {
@@ -2556,7 +2556,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/bigredbutton/bigredbutton.png",
+      "thumb": "bigredbutton.png",
       "slug": "big-red-button"
     },
     {
@@ -2574,7 +2574,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/bitcoin-clicker/BitcoinClicker.png",
+      "thumb": "BitcoinClicker.png",
       "download": true,
       "slug": "bitcoin-clicker"
     },
@@ -2593,7 +2593,7 @@
       "controls": [
         "Click: Flip Bottle"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/bottle-flip/icons/icon-256.png",
+      "thumb": "icons/icon-256.png",
       "slug": "bottle-flip"
     },
     {
@@ -2611,7 +2611,7 @@
       "controls": [
         "Click: Attack"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/clicker-heroes/thumb.jpg",
+      "thumb": "thumb.jpg",
       "slug": "clicker-heroes"
     },
     {
@@ -2630,7 +2630,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/cookie-clicker/cookie1.jpeg",
+      "thumb": "cookie1.jpeg",
       "download": true,
       "slug": "cookie-clicker"
     },
@@ -2649,7 +2649,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/core-ball/pr_source.png",
+      "thumb": "pr_source.png",
       "download": true,
       "slug": "core-ball"
     },
@@ -2668,7 +2668,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/csgo-clicker/images/case1.png",
+      "thumb": "images/case1.png",
       "download": true,
       "slug": "cs-go-clicker"
     },
@@ -2687,7 +2687,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/dino-merge/thumb.jpg",
+      "thumb": "thumb.jpg",
       "slug": "dinosaurs-merge-master"
     },
     {
@@ -2706,7 +2706,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/DogeMiner/img/dogeminer_300x300.png",
+      "thumb": "img/dogeminer_300x300.png",
       "download": true,
       "slug": "doge-miner"
     },
@@ -2725,7 +2725,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/doodle-jump/doodle.png",
+      "thumb": "doodle.png",
       "download": true,
       "slug": "doodle-jump"
     },
@@ -2744,7 +2744,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/ducklife/DuckLife.png",
+      "thumb": "DuckLife.png",
       "slug": "duck-life"
     },
     {
@@ -2762,7 +2762,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/ducklife-2/DuckLife2.png",
+      "thumb": "DuckLife2.png",
       "slug": "duck-life-2"
     },
     {
@@ -2780,7 +2780,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/ducklife-3/DuckLife3.png",
+      "thumb": "DuckLife3.png",
       "slug": "duck-life-3"
     },
     {
@@ -2798,7 +2798,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/ducklife4/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "duck-life-4"
     },
     {
@@ -2816,7 +2816,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/eel-slap/eel-slap.png",
+      "thumb": "eel-slap.png",
       "download": true,
       "slug": "eel-slap"
     },
@@ -2835,7 +2835,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/elastic-face/ElasticFace.png",
+      "thumb": "ElasticFace.png",
       "slug": "elastic-face"
     },
     {
@@ -2853,7 +2853,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/fake-virus/icon.png",
+      "thumb": "icon.png",
       "download": true,
       "slug": "fake-virus"
     },
@@ -2872,7 +2872,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/flappy-bird/assets/thumb.png",
+      "thumb": "assets/thumb.png",
       "download": true,
       "slug": "flappy-bird"
     },
@@ -2892,7 +2892,7 @@
       "controls": [
         "Drag: Slice"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/fruit-ninja/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "fruit-ninja"
     },
     {
@@ -2910,7 +2910,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/guess-kitty/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "guess-the-kitty"
     },
     {
@@ -2928,7 +2928,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/gura-temberine/GuraTamberine.png",
+      "thumb": "GuraTamberine.png",
       "slug": "gura-temberine"
     },
     {
@@ -2946,7 +2946,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/hackertype/logo192.png",
+      "thumb": "logo192.png",
       "slug": "hacker-typer"
     },
     {
@@ -2964,7 +2964,7 @@
       "controls": [
         "Click: Pop"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/hop-pop-it/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "hop-pop-it"
     },
     {
@@ -2982,7 +2982,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/idle-breakout/img/thumbnail.png",
+      "thumb": "img/thumbnail.png",
       "slug": "idle-breakout"
     },
     {
@@ -3000,7 +3000,7 @@
       "controls": [
         "Mouse: Control"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/idle-mining/logo.jpg",
+      "thumb": "logo.jpg",
       "download": true,
       "slug": "idle-mining-empire"
     },
@@ -3019,7 +3019,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/idle-restaurants/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "idle-restaurants"
     },
     {
@@ -3037,7 +3037,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/kittencannon/kittencannon.png",
+      "thumb": "kittencannon.png",
       "slug": "kitten-cannon"
     },
     {
@@ -3055,7 +3055,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/learntofly/learntofly.png",
+      "thumb": "learntofly.png",
       "slug": "learn-to-fly"
     },
     {
@@ -3074,7 +3074,7 @@
         "Drag: Move Element",
         "Drop: Merge Elements"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/little-alchemy-2/logo.png",
+      "thumb": "logo.png",
       "slug": "little-alchemy-2"
     },
     {
@@ -3092,7 +3092,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/merge-round-racers/splash.png",
+      "thumb": "splash.png",
       "slug": "merge-round-racers"
     },
     {
@@ -3110,7 +3110,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/minecraft-case/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "minecraft-case-simulator"
     },
     {
@@ -3128,7 +3128,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/nut-simulator/NutSimulator.png",
+      "thumb": "NutSimulator.png",
       "download": true,
       "slug": "nut-simulator"
     },
@@ -3147,7 +3147,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/particle-clicker/assets/mobile/original.png",
+      "thumb": "assets/mobile/original.png",
       "slug": "particle-clicker"
     },
     {
@@ -3165,7 +3165,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/push-the-square/img/splash.png",
+      "thumb": "img/splash.png",
       "slug": "push-the-square"
     },
     {
@@ -3183,7 +3183,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/rise-higher/RiseHigher.png",
+      "thumb": "RiseHigher.png",
       "download": true,
       "slug": "rise-higher"
     },
@@ -3203,7 +3203,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/sort-the-court/img/splash.png",
+      "thumb": "img/splash.png",
       "slug": "sort-the-court"
     },
     {
@@ -3221,7 +3221,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/space-company/Icons/SpaceCompanyFavicon.png",
+      "thumb": "Icons/SpaceCompanyFavicon.png",
       "download": true,
       "slug": "space-company"
     },
@@ -3241,7 +3241,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/townscaper/img/cover.jpg",
+      "thumb": "img/cover.jpg",
       "slug": "townscaper"
     },
     {
@@ -3259,7 +3259,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/veloce/qN6zkD.png",
+      "thumb": "qN6zkD.png",
       "slug": "veloce"
     },
     {
@@ -3277,7 +3277,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/weavesilk/thumb.png",
+      "thumb": "thumb.png",
       "download": true,
       "slug": "weave-silk"
     },
@@ -3296,7 +3296,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/wbwwb/WeBecomeWhatWeBehold.png",
+      "thumb": "WeBecomeWhatWeBehold.png",
       "slug": "we-become-what-we-behold"
     },
     {
@@ -3314,7 +3314,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/webgl-fluid-simulation/logo.png",
+      "thumb": "logo.png",
       "download": true,
       "slug": "webgl-fluid-sim"
     },
@@ -3333,7 +3333,7 @@
       "controls": [
         "Arrow / WASD Keys: Move"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/1v1-soccer/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "1-on-1-soccer"
     },
     {
@@ -3351,7 +3351,7 @@
       "controls": [
         "Mouse: Aiming / Throwing"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/3d-bowling/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "3d-bowling"
     },
     {
@@ -3370,7 +3370,7 @@
         "Drag: Aim",
         "Release: Shoot"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/8-ball/tmp/8BallBilliardsClassicTeaser.jpg",
+      "thumb": "tmp/8BallBilliardsClassicTeaser.jpg",
       "slug": "8-ball-pool"
     },
     {
@@ -3388,7 +3388,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/adrenalinechallenge/adrenalinechallenge.jpg",
+      "thumb": "adrenalinechallenge.jpg",
       "slug": "adrenaline-challenge"
     },
     {
@@ -3411,7 +3411,7 @@
         "Enter: Power Up",
         "Note: WASD keys also work"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/adventure-drivers/splash.png",
+      "thumb": "splash.png",
       "slug": "adventure-drivers"
     },
     {
@@ -3429,7 +3429,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/aquapark-slides/splash.png",
+      "thumb": "splash.png",
       "slug": "aquapark-slides"
     },
     {
@@ -3452,7 +3452,7 @@
         "Release: Shoot",
         "Note: Only drag and shoot when at Shootout Challenges"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/basket-and-ball/logo.avif",
+      "thumb": "logo.avif",
       "slug": "basket-and-ball"
     },
     {
@@ -3471,7 +3471,7 @@
         "Mouse: Aim",
         "Click: Shoot"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/basket-champs/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "basket-champs"
     },
     {
@@ -3508,7 +3508,7 @@
         "L: Shoot / Steal (Player 2)",
         "K: Super (Player 2)"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/basketball-stars/assets/images/basketball-stars.png",
+      "thumb": "assets/images/basketball-stars.png",
       "slug": "basketball-stars"
     },
     {
@@ -3526,7 +3526,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/basket-random/BasketRandom.png",
+      "thumb": "BasketRandom.png",
       "slug": "basket-random"
     },
     {
@@ -3544,7 +3544,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/big-shot-boxing/favicon.png",
+      "thumb": "favicon.png",
       "slug": "big-shot-boxing"
     },
     {
@@ -3564,7 +3564,7 @@
         "Down Arrow: Backward",
         "Left / Right Arrow: Tilt"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/biker-street/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "biker-street"
     },
     {
@@ -3582,7 +3582,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/boxing-random/512x512.jpg",
+      "thumb": "512x512.jpg",
       "slug": "boxing-random"
     },
     {
@@ -3600,7 +3600,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/car-rush/thumb.png",
+      "thumb": "thumb.png",
       "slug": "car-rush"
     },
     {
@@ -3618,7 +3618,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/cars-simulator/splash.png",
+      "thumb": "splash.png",
       "slug": "cars-simulator"
     },
     {
@@ -3636,7 +3636,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/cluster-rush/splash.png",
+      "thumb": "splash.png",
       "slug": "cluster-rush"
     },
     {
@@ -3654,7 +3654,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/crazy-cars/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "crazy-cars"
     },
     {
@@ -3672,7 +3672,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/draw-the-hill/icons/icon-512.png",
+      "thumb": "icons/icon-512.png",
       "slug": "draw-the-hill"
     },
     {
@@ -3690,7 +3690,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/drift-boss/drift-boss.png",
+      "thumb": "drift-boss.png",
       "slug": "drift-boss"
     },
     {
@@ -3713,7 +3713,7 @@
         "Space / Enter: Proceed",
         "Note: WASD keys and clicking on screen also work"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/drive-mad/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "drive-mad"
     },
     {
@@ -3731,7 +3731,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/edge-surf/splash.png",
+      "thumb": "splash.png",
       "slug": "edge-let-s-surf"
     },
     {
@@ -3750,7 +3750,7 @@
         "Left Arrow / A / Left Pedal: Backward",
         "Right Arrow / D / Right Pedal: Forward"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/eggy-car/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "eggy-car"
     },
     {
@@ -3770,7 +3770,7 @@
         "Right Arrow: Tilt Right",
         "Space: Jump"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/endless-truck/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "endless-truck"
     },
     {
@@ -3788,7 +3788,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/football-brawl/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "football-brawl"
     },
     {
@@ -3806,7 +3806,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/football-legends/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "football-legends"
     },
     {
@@ -3824,7 +3824,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/football-strike/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "football-strike"
     },
     {
@@ -3843,7 +3843,7 @@
         "WASD Keys: Move (Player 1)",
         "Arrow Keys: Move (Player 2)"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/get-on-top/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "get-on-top"
     },
     {
@@ -3864,7 +3864,7 @@
         "WASD Keys: Move (Player 2)",
         "Q: Shoot (Player 2)"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/heads-arena/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "heads-arena"
     },
     {
@@ -3882,7 +3882,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/head-soccer/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "head-soccer-2023"
     },
     {
@@ -3900,7 +3900,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/madalin-stunt-cars-2/img/logo.jpg",
+      "thumb": "img/logo.jpg",
       "slug": "madalin-stunt-cars-2"
     },
     {
@@ -3924,7 +3924,7 @@
         "Esc: Pause",
         "Note: WASD keys also work"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/moving-truck/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "moving-truck"
     },
     {
@@ -3943,7 +3943,7 @@
         "Hold: Aim",
         "Release: Shoot"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/penalty-shooter-2/icon-256.png",
+      "thumb": "icon-256.png",
       "slug": "penalty-shooters-2"
     },
     {
@@ -3961,7 +3961,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/retro-bowl/img/icon.jpg",
+      "thumb": "img/icon.jpg",
       "slug": "retro-bowl"
     },
     {
@@ -3979,7 +3979,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/scrapmetal/img/splash.png",
+      "thumb": "img/splash.png",
       "slug": "scrap-metal-3"
     },
     {
@@ -3998,7 +3998,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/soccer-random/unnamed.png",
+      "thumb": "unnamed.png",
       "slug": "soccer-random"
     },
     {
@@ -4017,7 +4017,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/soccer-skills/splash.png",
+      "thumb": "splash.png",
       "slug": "soccer-skills-euro-cup"
     },
     {
@@ -4035,7 +4035,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/theheist/theheist.jpg",
+      "thumb": "theheist.jpg",
       "slug": "the-heist"
     },
     {
@@ -4053,7 +4053,7 @@
       "controls": [
         "Up Arrow / W Key: Jump"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/volley-random/splash.png",
+      "thumb": "splash.png",
       "slug": "volley-random"
     },
     {
@@ -4071,7 +4071,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/x-trial-racing/splash.png",
+      "thumb": "splash.png",
       "slug": "x-trial-racing"
     },
     {
@@ -4089,7 +4089,7 @@
       "controls": [
         "Arrow / WASD Keys: Move Number Tiles"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/1/meta/apple-touch-icon.png",
+      "thumb": "meta/apple-touch-icon.png",
       "download": true,
       "slug": "1"
     },
@@ -4108,7 +4108,7 @@
       "controls": [
         "Mouse: Drag / Drop"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/color-match/splash.png",
+      "thumb": "splash.png",
       "slug": "1010-color-match"
     },
     {
@@ -4127,7 +4127,7 @@
         "Drag: Move Pieces",
         "Drop: Drop Pieces"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/1010-deluxe/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "1010-deluxe"
     },
     {
@@ -4146,7 +4146,7 @@
       "controls": [
         "Arrow / WASD Keys: Move Number Tiles"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/2048/thumb.png",
+      "thumb": "thumb.png",
       "download": true,
       "slug": "2048"
     },
@@ -4165,7 +4165,7 @@
       "controls": [
         "Arrow / WASD Keys: Move Number Tiles"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/2048-multitask/splash.png",
+      "thumb": "splash.png",
       "download": true,
       "slug": "2048-multitask"
     },
@@ -4187,7 +4187,7 @@
         "Clicking on Panda: Stack",
         "Note: Clicking has other functionalities depending on where you click."
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/pandas-japan/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "3-pandas-in-japan"
     },
     {
@@ -4205,7 +4205,7 @@
       "controls": [
         "Arrow / WASD Keys: Move Number Tiles"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/9007199254740992/logo-4.png",
+      "thumb": "logo-4.png",
       "download": true,
       "slug": "900719925474"
     },
@@ -4225,7 +4225,7 @@
       "controls": [
         "Arrow Keys: Move"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/achievementunlocked/achievementunlocked.png",
+      "thumb": "achievementunlocked.png",
       "slug": "achievement-unlocked"
     },
     {
@@ -4243,7 +4243,7 @@
       "controls": [
         "Click: Choose"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/adventure-anxiety/splash.png",
+      "thumb": "splash.png",
       "slug": "adventure-with-anxiety"
     },
     {
@@ -4262,7 +4262,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/among-us/red.png",
+      "thumb": "red.png",
       "slug": "among-us"
     },
     {
@@ -4281,7 +4281,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/bad-ice-cream/bad-ice-cream.png",
+      "thumb": "bad-ice-cream.png",
       "slug": "bad-ice-cream"
     },
     {
@@ -4299,7 +4299,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/bad-ice-cream-2/bad-ice-cream-2.png",
+      "thumb": "bad-ice-cream-2.png",
       "slug": "bad-ice-cream-2"
     },
     {
@@ -4317,7 +4317,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/bad-ice-cream-3/bad-ice-cream-3.png",
+      "thumb": "bad-ice-cream-3.png",
       "slug": "bad-ice-cream-3"
     },
     {
@@ -4335,7 +4335,7 @@
       "controls": [
         "Click: Sort"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/ball-sort-halloween/logo.jpg",
+      "thumb": "logo.jpg",
       "download": true,
       "slug": "ball-sort-halloween"
     },
@@ -4354,7 +4354,7 @@
       "controls": [
         "Click: Sort"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/ball-sort-puzzle/logo.png",
+      "thumb": "logo.png",
       "download": true,
       "slug": "ball-sort-puzzle"
     },
@@ -4373,7 +4373,7 @@
       "controls": [
         "Click: Sort"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/ball-sort-soccer/logo.png",
+      "thumb": "logo.png",
       "download": true,
       "slug": "ball-sort-soccer"
     },
@@ -4393,7 +4393,7 @@
         "Drag: Aim",
         "Release: Shoot"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/ballistic/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "ballistic"
     },
     {
@@ -4411,7 +4411,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/battleforgondor/battleforgondor.JPG",
+      "thumb": "battleforgondor.JPG",
       "slug": "battle-for-gondor"
     },
     {
@@ -4430,7 +4430,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/blacholesquare/icon.png",
+      "thumb": "icon.png",
       "download": true,
       "slug": "black-hole-square"
     },
@@ -4449,7 +4449,7 @@
       "controls": [
         "Click: Place Block"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/block-pig/logo.avif",
+      "thumb": "logo.avif",
       "slug": "block-the-pig"
     },
     {
@@ -4467,7 +4467,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/bloonstd/bloonstd.jpg",
+      "thumb": "bloonstd.jpg",
       "slug": "bloons-td"
     },
     {
@@ -4485,7 +4485,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/bloonstd2/bloonstd2.png",
+      "thumb": "bloonstd2.png",
       "slug": "bloons-td-2"
     },
     {
@@ -4503,7 +4503,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/bloonstd4/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "bloons-td-4"
     },
     {
@@ -4522,7 +4522,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/bloxors/block.png",
+      "thumb": "block.png",
       "slug": "bloxors"
     },
     {
@@ -4542,7 +4542,7 @@
         "Space: Charge Rocket",
         "R: Restart"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/blumgi-rocket/thumb.png",
+      "thumb": "thumb.png",
       "slug": "blumgi-rocket"
     },
     {
@@ -4560,7 +4560,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/breakingthebank/breakingthebank.png",
+      "thumb": "breakingthebank.png",
       "slug": "breaking-the-bank"
     },
     {
@@ -4579,7 +4579,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/btts/images.png",
+      "thumb": "images.png",
       "slug": "big-tower-tiny-square"
     },
     {
@@ -4598,7 +4598,7 @@
         "Drag: Aim",
         "Release: Shoot"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/bouncy-woods/thumb.png",
+      "thumb": "thumb.png",
       "slug": "bouncy-woods"
     },
     {
@@ -4618,7 +4618,7 @@
         "Release: Shoot",
         "B: Switch Ball"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/bubble-pop/thumb.jpg",
+      "thumb": "thumb.jpg",
       "download": true,
       "slug": "bubble-pop-adventures"
     },
@@ -4637,7 +4637,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/burrito-bison/Build/logo.png",
+      "thumb": "Build/logo.png",
       "slug": "burrito-bison"
     },
     {
@@ -4655,7 +4655,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/cannon-basketball-4/img/splash.png",
+      "thumb": "img/splash.png",
       "slug": "cannon-basketball-4"
     },
     {
@@ -4673,7 +4673,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/canyondefense/canyondefense.png",
+      "thumb": "canyondefense.png",
       "slug": "canyon-defense"
     },
     {
@@ -4692,7 +4692,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/cell-machine/img/te9nDu.png",
+      "thumb": "img/te9nDu.png",
       "slug": "cell-machine"
     },
     {
@@ -4710,7 +4710,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/checkers-legend/thumb.jpg",
+      "thumb": "thumb.jpg",
       "slug": "checkers-legend"
     },
     {
@@ -4729,7 +4729,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/circlo/img/download.png",
+      "thumb": "img/download.png",
       "download": true,
       "slug": "circlo"
     },
@@ -4749,7 +4749,7 @@
         "Arrow / WASD Keys: Move",
         "Esc / Back: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/circlo2/thumv.png",
+      "thumb": "thumv.png",
       "download": true,
       "slug": "circloo-2"
     },
@@ -4768,7 +4768,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/climb-over-it/thumb.jpg",
+      "thumb": "thumb.jpg",
       "slug": "climb-over-it"
     },
     {
@@ -4786,7 +4786,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/connect3/connect3.png",
+      "thumb": "connect3.png",
       "download": true,
       "slug": "connect-3"
     },
@@ -4805,7 +4805,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/crossyroad/crossyroad.png",
+      "thumb": "crossyroad.png",
       "slug": "crossy-road"
     },
     {
@@ -4825,7 +4825,7 @@
         "Drag: Cut",
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/ctr/logo.png",
+      "thumb": "logo.png",
       "slug": "cut-the-rope"
     },
     {
@@ -4844,7 +4844,7 @@
         "Drag: Cut",
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/ctr-holiday/Holiday_Gift.webp",
+      "thumb": "Holiday_Gift.webp",
       "slug": "cut-the-rope-holiday"
     },
     {
@@ -4863,7 +4863,7 @@
         "Drag: Cut",
         "click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/ctr-tr/logo.png",
+      "thumb": "logo.png",
       "slug": "cut-the-rope-time-travel"
     },
     {
@@ -4881,7 +4881,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/deal-or-no-deal/index.jpg",
+      "thumb": "index.jpg",
       "slug": "deal-or-no-deal"
     },
     {
@@ -4899,7 +4899,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/deepest-sword/logo.jpg",
+      "thumb": "logo.jpg",
       "download": true,
       "slug": "deepest-sword"
     },
@@ -4918,7 +4918,7 @@
       "controls": [
         "Arrow / WASD Keys: Move"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/dino-bros/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "dino-bros"
     },
     {
@@ -4936,7 +4936,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/doctor-acorn2/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "doctor-acorn-2"
     },
     {
@@ -4954,7 +4954,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/doge2048/doge1.jpeg",
+      "thumb": "doge1.jpeg",
       "download": true,
       "slug": "doge-2048"
     },
@@ -4973,7 +4973,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/edgenotfound/edge.png",
+      "thumb": "edge.png",
       "download": true,
       "slug": "edge-not-found"
     },
@@ -4992,7 +4992,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/escaping-prison/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "escaping-the-prison"
     },
     {
@@ -5010,7 +5010,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/evolution/splash.png",
+      "thumb": "splash.png",
       "slug": "evolution"
     },
     {
@@ -5028,7 +5028,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/exo/img/small.jpg",
+      "thumb": "img/small.jpg",
       "download": true,
       "slug": "exo"
     },
@@ -5047,7 +5047,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/factoryballs/images/splash.png",
+      "thumb": "images/splash.png",
       "slug": "factory-balls-forever"
     },
     {
@@ -5066,7 +5066,7 @@
         "Click: Action",
         "Drag: Switch"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/farm-match/Icon_512x512.png",
+      "thumb": "Icon_512x512.png",
       "slug": "farm-match-seasons"
     },
     {
@@ -5084,7 +5084,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/flashtetris/flashtetris.png",
+      "thumb": "flashtetris.png",
       "slug": "flash-tetris"
     },
     {
@@ -5102,7 +5102,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/fleeing-complex/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "fleeing-the-complex"
     },
     {
@@ -5120,7 +5120,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/game-inside/img/display.png",
+      "thumb": "img/display.png",
       "slug": "game-inside-a-game-inside-a-game"
     },
     {
@@ -5139,7 +5139,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/georgeandtheprinter/img/SnDTEn.png",
+      "thumb": "img/SnDTEn.png",
       "slug": "george-and-the-printer"
     },
     {
@@ -5157,7 +5157,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/getting-over-it/GettingOverIt.png",
+      "thumb": "GettingOverIt.png",
       "slug": "getting-over-it"
     },
     {
@@ -5175,7 +5175,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/go-ball/game.jpg",
+      "thumb": "game.jpg",
       "slug": "go-ball"
     },
     {
@@ -5193,7 +5193,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/google-feud/splash.png",
+      "thumb": "splash.png",
       "download": true,
       "slug": "google-feud"
     },
@@ -5212,7 +5212,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/gravity-soccer/splash.png",
+      "thumb": "splash.png",
       "slug": "gravity-soccer"
     },
     {
@@ -5231,7 +5231,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/greybox/ico.png",
+      "thumb": "ico.png",
       "slug": "grey-box-testing"
     },
     {
@@ -5250,7 +5250,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/handshakes/splaher.png",
+      "thumb": "splaher.png",
       "slug": "handshakes"
     },
     {
@@ -5269,7 +5269,7 @@
         "Hold: Hang",
         "Release: Detach"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/hanger/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "hanger"
     },
     {
@@ -5287,7 +5287,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/hexempire/hexempire.jpg",
+      "thumb": "hexempire.jpg",
       "slug": "hex-empire"
     },
     {
@@ -5305,7 +5305,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/hextris/images/hextris-logo.png",
+      "thumb": "images/hextris-logo.png",
       "download": true,
       "slug": "hextris"
     },
@@ -5325,7 +5325,7 @@
         "Hold: Turns Icy",
         "Release: Turns Normal"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/icy-head-2/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "icy-purple-head-2"
     },
     {
@@ -5344,7 +5344,7 @@
         "Hold: Turns Icy",
         "Release: Turns Normal"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/icy-head-3/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "icy-purple-head-3"
     },
     {
@@ -5362,7 +5362,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/impossiblequiz/impossiblequiz.png",
+      "thumb": "impossiblequiz.png",
       "slug": "impossible-quiz"
     },
     {
@@ -5380,7 +5380,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/infiltrating-airship/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "infiltrating-the-airship"
     },
     {
@@ -5399,7 +5399,7 @@
         "Drag: Move Tiles",
         "Drop: Switch Tiles"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/jewels-blitz-5/Icon_512x512.png",
+      "thumb": "Icon_512x512.png",
       "slug": "jewels-blitz-5"
     },
     {
@@ -5417,7 +5417,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/marbles-sorting/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "marbles-sorting"
     },
     {
@@ -5435,7 +5435,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/meme2048/img/rickroll.gif",
+      "thumb": "img/rickroll.gif",
       "download": true,
       "slug": "meme-2048"
     },
@@ -5454,7 +5454,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/minesweeper/img/minesweeper.png",
+      "thumb": "img/minesweeper.png",
       "download": true,
       "slug": "minesweeper"
     },
@@ -5473,7 +5473,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/miniputt/miniputt.png",
+      "thumb": "miniputt.png",
       "slug": "mini-putt"
     },
     {
@@ -5492,7 +5492,7 @@
         "Arrow Keys: Move (Player 1)",
         "WASD Keys: Move (Player 2)"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/money-movers/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "money-movers"
     },
     {
@@ -5511,7 +5511,7 @@
         "Arrow Keys: Move (Player 1)",
         "WASD Keys: Move (Player 2)"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/money-movers-2/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "money-movers-2"
     },
     {
@@ -5530,7 +5530,7 @@
         "Arrow Keys: Move (Player 1)",
         "WASD Keys: Move (Player 2)"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/money-movers-3/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "money-movers-3"
     },
     {
@@ -5548,7 +5548,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/park-out/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "park-out"
     },
     {
@@ -5566,7 +5566,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/plants-vs-zombies/PlantsVsZombies.png",
+      "thumb": "PlantsVsZombies.png",
       "slug": "plants-vs-zombies"
     },
     {
@@ -5585,7 +5585,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/portalflash/portaltheflashversion.jpg",
+      "thumb": "portaltheflashversion.jpg",
       "slug": "portal-flash"
     },
     {
@@ -5603,7 +5603,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/push-your-luck/assets/img/push.png",
+      "thumb": "assets/img/push.png",
       "slug": "push-your-luck"
     },
     {
@@ -5622,7 +5622,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/rabbit-samurai/splash.png",
+      "thumb": "splash.png",
       "slug": "rabbit-samurai"
     },
     {
@@ -5640,7 +5640,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/rabbit-samurai2/splash.png",
+      "thumb": "splash.png",
       "slug": "rabbit-samurai-2"
     },
     {
@@ -5658,7 +5658,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/riddleschool/riddleschool.png",
+      "thumb": "riddleschool.png",
       "slug": "riddle-school-1"
     },
     {
@@ -5676,7 +5676,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/riddleschool2/riddleschool2.png",
+      "thumb": "riddleschool2.png",
       "slug": "riddle-school-2"
     },
     {
@@ -5694,7 +5694,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/riddleschool3/riddleschool3.png",
+      "thumb": "riddleschool3.png",
       "slug": "riddle-school-3"
     },
     {
@@ -5712,7 +5712,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/riddleschool4/riddleschool4.png",
+      "thumb": "riddleschool4.png",
       "slug": "riddle-school-4"
     },
     {
@@ -5730,7 +5730,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/riddleschool5/riddleschool5.png",
+      "thumb": "riddleschool5.png",
       "slug": "riddle-school-5"
     },
     {
@@ -5748,7 +5748,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/riddletransfer/riddletransfer.png",
+      "thumb": "riddletransfer.png",
       "slug": "riddle-school-transfer-1"
     },
     {
@@ -5767,7 +5767,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/riddletransfer2/riddletransfer2.png",
+      "thumb": "riddletransfer2.png",
       "slug": "riddle-school-transfer-2"
     },
     {
@@ -5785,7 +5785,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/roper/webapp/cover.jpg",
+      "thumb": "webapp/cover.jpg",
       "slug": "roper"
     },
     {
@@ -5803,7 +5803,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/slime-rush-td/splash.png",
+      "thumb": "splash.png",
       "slug": "slime-rush-td"
     },
     {
@@ -5821,7 +5821,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/stealingthediamond/stealingthediamond.jpg",
+      "thumb": "stealingthediamond.jpg",
       "slug": "stealing-the-diamond"
     },
     {
@@ -5839,7 +5839,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/stickman-golf/splash.png",
+      "thumb": "splash.png",
       "download": true,
       "slug": "stickman-golf"
     },
@@ -5859,7 +5859,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/stickman-hook/unnamed.jpg",
+      "thumb": "unnamed.jpg",
       "slug": "stickman-hook"
     },
     {
@@ -5877,7 +5877,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/stormthehouse2/stormthehouse2.jpg",
+      "thumb": "stormthehouse2.jpg",
       "slug": "storm-the-house-2"
     },
     {
@@ -5895,7 +5895,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/territorial/Territorial.png",
+      "thumb": "Territorial.png",
       "download": true,
       "slug": "territorial"
     },
@@ -5914,7 +5914,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/thebattle/thebattle.png",
+      "thumb": "thebattle.png",
       "slug": "the-battle"
     },
     {
@@ -5933,7 +5933,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/the-final-earth/images.png",
+      "thumb": "images.png",
       "slug": "the-final-earth"
     },
     {
@@ -5952,7 +5952,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/there-is-no-game/logo.png",
+      "thumb": "logo.png",
       "slug": "there-is-no-game"
     },
     {
@@ -5970,7 +5970,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/tiny-islands/splash.png",
+      "thumb": "splash.png",
       "slug": "tiny-islands"
     },
     {
@@ -5988,7 +5988,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/twitch-tetris/logo.png",
+      "thumb": "logo.png",
       "download": true,
       "slug": "twitch-tetris"
     },
@@ -6007,7 +6007,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/waterworks/square.png",
+      "thumb": "square.png",
       "slug": "waterworks"
     },
     {
@@ -6025,7 +6025,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/wallsmash/thumb.png",
+      "thumb": "thumb.png",
       "download": true,
       "slug": "wall-smash"
     },
@@ -6044,7 +6044,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/wordle/img/logo_192x192.png",
+      "thumb": "img/logo_192x192.png",
       "download": true,
       "slug": "wordle"
     },
@@ -6064,7 +6064,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/xx142-b2exe/splash.png",
+      "thumb": "splash.png",
       "download": true,
       "slug": "xx142-b2exe"
     },
@@ -6083,7 +6083,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/you-are-bezos/img/banner.png",
+      "thumb": "img/banner.png",
       "download": true,
       "slug": "you-are-jeff-bezos"
     },
@@ -6103,7 +6103,7 @@
       "controls": [
         "Click: Action"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/bitlife/splash.png",
+      "thumb": "splash.png",
       "slug": "bitlife"
     },
     {
@@ -6121,7 +6121,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/happy-hop/splash.png",
+      "thumb": "splash.png",
       "slug": "happy-hop"
     },
     {
@@ -6139,7 +6139,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/hba/hoverbotarena.JPG",
+      "thumb": "hoverbotarena.JPG",
       "slug": "hover-bot-arena"
     },
     {
@@ -6157,7 +6157,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/just-one-boss/pv1Gr5.png",
+      "thumb": "pv1Gr5.png",
       "download": true,
       "slug": "just-one-boss"
     },
@@ -6176,7 +6176,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/my-rusty-submarine/splash.png",
+      "thumb": "splash.png",
       "slug": "my-rusty-submarine"
     },
     {
@@ -6194,7 +6194,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/ovo/ovo.png",
+      "thumb": "ovo.png",
       "slug": "ovo"
     },
     {
@@ -6212,7 +6212,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/pandemic2/pandemic2.png",
+      "thumb": "pandemic2.png",
       "slug": "pandemic-2"
     },
     {
@@ -6230,7 +6230,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papasburgeria/splash.jpg",
+      "thumb": "splash.jpg",
       "slug": "papa-s-burgeria"
     },
     {
@@ -6248,7 +6248,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papaspizzaria/papaspizzaria.jpg",
+      "thumb": "papaspizzaria.jpg",
       "slug": "papa-s-pizzaria"
     },
     {
@@ -6266,7 +6266,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/paperio2/images/icon512.png",
+      "thumb": "images/icon512.png",
       "slug": "paper-io-2"
     },
     {
@@ -6284,7 +6284,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/sandboxels/sandboxels.jpg",
+      "thumb": "sandboxels.jpg",
       "download": true,
       "slug": "sandboxels"
     },
@@ -6303,7 +6303,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/santy-is-home/splash.png",
+      "thumb": "splash.png",
       "slug": "santy-is-home"
     },
     {
@@ -6321,7 +6321,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/sky-car-stunt/512x512.jpg",
+      "thumb": "512x512.jpg",
       "slug": "sky-car-stunt"
     },
     {
@@ -6339,7 +6339,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/snowbattle/img/logo.png",
+      "thumb": "img/logo.png",
       "slug": "snowbattle"
     },
     {
@@ -6357,7 +6357,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/solitaire/logo.jpg",
+      "thumb": "logo.jpg",
       "download": true,
       "slug": "solitaire"
     },
@@ -6376,7 +6376,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/the-hotel/splash.png",
+      "thumb": "splash.png",
       "download": true,
       "slug": "the-hotel"
     },
@@ -6396,7 +6396,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/tosstheturtle/tosstheturtle.png",
+      "thumb": "tosstheturtle.png",
       "slug": "toss-the-turtle"
     },
     {
@@ -6414,7 +6414,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/yoshifabrication/icons/icon-512.png",
+      "thumb": "icons/icon-512.png",
       "slug": "yoshi-s-fabrication-lab"
     },
     {
@@ -6432,7 +6432,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/paper-3/PaperIo3.png",
+      "thumb": "PaperIo3.png",
       "download": true,
       "slug": "paper-io-3"
     },
@@ -6452,7 +6452,7 @@
         "Hold: Aim",
         "Release: Shoot"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/mr-bullet/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "mr-bullet"
     },
     {
@@ -6471,7 +6471,7 @@
         "Arrow Keys: Move",
         "Note: WASD keys and dragging also work"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/mutazone/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "mutazone"
     },
     {
@@ -6490,7 +6490,7 @@
         "Hold: Aim",
         "Release: Jump"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/ninja-cat/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "ninja-cat"
     },
     {
@@ -6508,7 +6508,7 @@
       "controls": [
         "Arrow Keys: Move"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/ovo-2/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "ovo-2"
     },
     {
@@ -6526,7 +6526,7 @@
       "controls": [
         "Arrow Keys: Move"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/ovo-dimensions/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "ovo-dimensions"
     },
     {
@@ -6545,7 +6545,7 @@
         "Arrow Keys: Move",
         "P: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/pacman/logo.png",
+      "thumb": "logo.png",
       "slug": "pacman"
     },
     {
@@ -6564,7 +6564,7 @@
         "Click: Action",
         "Drag: Switch"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/papa-cherry-saga/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-cherry-saga"
     },
     {
@@ -6583,7 +6583,7 @@
         "Arrow / WASD Keys: Move",
         "P: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/parking-fury/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "parking-fury"
     },
     {
@@ -6602,7 +6602,7 @@
         "Arrow / WASD Keys: Move",
         "P: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/parking-fury-2/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "parking-fury-2"
     },
     {
@@ -6621,7 +6621,7 @@
         "Arrow / WASD Keys: Move",
         "P: Pause"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/parking-fury-3/67f5943d779b41b2bc6a67ce132b7c68-512x512.jpeg",
+      "thumb": "67f5943d779b41b2bc6a67ce132b7c68-512x512.jpeg",
       "slug": "parking-fury-3"
     },
     {
@@ -6639,7 +6639,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/penalty-kick/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "penalty-kick-online"
     },
     {
@@ -6657,7 +6657,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/penalty-shooters-3/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "penalty-shooters-3"
     },
     {
@@ -6675,7 +6675,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/pixel-smash-duels/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "pixel-smash-duel"
     },
     {
@@ -6693,7 +6693,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/pizza-tower/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "pizza-tower"
     },
     {
@@ -6711,7 +6711,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/pou/logo.png",
+      "thumb": "logo.png",
       "slug": "pou"
     },
     {
@@ -6729,7 +6729,7 @@
       "controls": [
         "Drag: Move"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/pudding-monster/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "pudding-monsters"
     },
     {
@@ -6747,7 +6747,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/racing-monster-truck/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "racing-monster-trucks"
     },
     {
@@ -6765,7 +6765,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/run-3-space/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "run-3-space"
     },
     {
@@ -6783,7 +6783,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/rusher-crusher/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "rusher-crusher"
     },
     {
@@ -6801,7 +6801,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/save-the-dodge/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "save-the-doge"
     },
     {
@@ -6819,7 +6819,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/sling-tomb/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "sling-tomb"
     },
     {
@@ -6837,7 +6837,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/snail-bob-7/9aefc9ef4a7f4d5d8062cfb563cc658c-512x512.jpeg",
+      "thumb": "9aefc9ef4a7f4d5d8062cfb563cc658c-512x512.jpeg",
       "slug": "snail-bob-7"
     },
     {
@@ -6855,7 +6855,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/snail-bob-8/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "snail-bob-8"
     },
     {
@@ -6873,7 +6873,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/soccer-heads/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "soccer-heads"
     },
     {
@@ -6891,7 +6891,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/space-bar-clicker/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "space-bar-clicker"
     },
     {
@@ -6909,7 +6909,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/spider-solitaire/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "spider-solitaire"
     },
     {
@@ -6927,7 +6927,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/super-liquid-soccer/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "super-liquid-soccer"
     },
     {
@@ -6945,7 +6945,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/super-mario-wonder/loading-logo.png",
+      "thumb": "loading-logo.png",
       "slug": "super-mario-wonder"
     },
     {
@@ -6963,7 +6963,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/swingo/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "swingo"
     },
     {
@@ -6981,7 +6981,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/tap-tap-shots/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "tap-tap-shots"
     },
     {
@@ -6999,7 +6999,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/tower-crash-3d/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "tower-crash-3d"
     },
     {
@@ -7017,7 +7017,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/traffic-control/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "traffic-control"
     },
     {
@@ -7035,7 +7035,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/tunnel-rush-2/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "tunnel-rush-2"
     },
     {
@@ -7053,7 +7053,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/turn-turn/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "turn-turn"
     },
     {
@@ -7071,7 +7071,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/wheelie-bike/icon-256.png",
+      "thumb": "icon-256.png",
       "slug": "wheelie-bike"
     },
     {
@@ -7089,7 +7089,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/wheelie-bike-2/icon-256.png",
+      "thumb": "icon-256.png",
       "slug": "wheelie-bike-2"
     },
     {
@@ -7107,7 +7107,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/wheely-2/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "wheely-2"
     },
     {
@@ -7125,7 +7125,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/wheely-3/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "wheely-3"
     },
     {
@@ -7143,7 +7143,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/wheely-4/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "wheely-4"
     },
     {
@@ -7161,7 +7161,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/wheely-5/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "wheely-5"
     },
     {
@@ -7179,7 +7179,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/wheely-6/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "wheely-6"
     },
     {
@@ -7197,7 +7197,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/wheely-7/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "wheely-7"
     },
     {
@@ -7215,7 +7215,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/wheely-8/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "wheely-8"
     },
     {
@@ -7233,7 +7233,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/wood-block-puzzle/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "wood-block-puzzle"
     },
     {
@@ -7251,7 +7251,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/woodventure/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "woodventure"
     },
     {
@@ -7269,7 +7269,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/wordle-unlimited/logo.png",
+      "thumb": "logo.png",
       "slug": "wordle-unlimited"
     },
     {
@@ -7287,7 +7287,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/word-slide/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "word-slide"
     },
     {
@@ -7306,7 +7306,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/retro-bowl-college/unnamed.png",
+      "thumb": "unnamed.png",
       "slug": "retro-bowl-college"
     },
     {
@@ -7324,7 +7324,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/axis-football-league/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "axis-football-league"
     },
     {
@@ -7342,7 +7342,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/burrito-bison-revenge/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "burrito-bison-revenge"
     },
     {
@@ -7360,7 +7360,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/fancy-pants-2/logo.avif",
+      "thumb": "logo.avif",
       "slug": "fancy-pants-adventures-2"
     },
     {
@@ -7378,7 +7378,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/fancy-pants-3/logo.avif",
+      "thumb": "logo.avif",
       "slug": "fancy-pants-adventures-3"
     },
     {
@@ -7396,7 +7396,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/galaga/logo.png",
+      "thumb": "logo.png",
       "slug": "galaga"
     },
     {
@@ -7414,7 +7414,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/dummy-never-fails/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "dummy-never-fails"
     },
     {
@@ -7432,7 +7432,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/strategy-games/dummy-never-fails-2/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "dummy-never-fails-2"
     },
     {
@@ -7450,7 +7450,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/gunblood/logo.png",
+      "thumb": "logo.png",
       "slug": "gunblood"
     },
     {
@@ -7468,7 +7468,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/learn-to-fly-2/logo.jpeg",
+      "thumb": "logo.jpeg",
       "slug": "learn-to-fly-2"
     },
     {
@@ -7486,7 +7486,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-bake/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-s-bakeria"
     },
     {
@@ -7504,7 +7504,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-cheese/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-s-cheeseria"
     },
     {
@@ -7522,7 +7522,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-cupcake/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-s-cupcakeria"
     },
     {
@@ -7540,7 +7540,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-donut/logo.png",
+      "thumb": "logo.png",
       "slug": "papa-s-donuteria"
     },
     {
@@ -7558,7 +7558,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-freeze/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-s-freezeria"
     },
     {
@@ -7576,7 +7576,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-hotdog/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-s-hot-doggeria"
     },
     {
@@ -7594,7 +7594,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-pancake/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-s-pancakeria"
     },
     {
@@ -7612,7 +7612,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-pasta/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-s-pastaria"
     },
     {
@@ -7630,7 +7630,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-scoop/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-s-scooperia"
     },
     {
@@ -7648,7 +7648,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-sushi/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-s-sushiria"
     },
     {
@@ -7666,7 +7666,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-taco/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-s-taco-mia"
     },
     {
@@ -7684,7 +7684,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/casual-games/papas-wing/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "papa-s-wingeria"
     },
     {
@@ -7702,7 +7702,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/gun-mayhem/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "gun-mayhem"
     },
     {
@@ -7720,7 +7720,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/gun-mayhem-2/logo.webp",
+      "thumb": "logo.webp",
       "slug": "gun-mayhem-2"
     },
     {
@@ -7738,7 +7738,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/gun-mayhem-redux/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "gun-mayhem-redux"
     },
     {
@@ -7756,7 +7756,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/icycle/logo.avif",
+      "thumb": "logo.avif",
       "slug": "icycle"
     },
     {
@@ -7774,7 +7774,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/driving-games/monster-truck-destroyer/unnamed.png",
+      "thumb": "unnamed.png",
       "slug": "monster-truck-destroyer"
     },
     {
@@ -7792,7 +7792,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/pokemon-emerald/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "pokemon-emerald"
     },
     {
@@ -7810,7 +7810,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/pokemon-emerald-2/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "pokemon-emerald-2"
     },
     {
@@ -7828,7 +7828,7 @@
       "controls": [
         "Still working on this one O_O"
       ],
-      "thumb": "https://quiz-50.github.io/action-games/pokemon-firered/logo.jpg",
+      "thumb": "logo.jpg",
       "slug": "pokemon-firered"
     }
   ]
