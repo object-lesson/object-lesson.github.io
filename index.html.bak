@@ -134,6 +134,18 @@
 <h3>Cookie Clicker</h3>
 </div>
 </a>
+<a class="card" href="/game.html?g=tunnel-rush">
+<picture><img alt="Tunnel Rush" class="img-fluid" height="126" src="https://quiz-50.github.io/action-games/tunnel-rush/img/tunnel.jpg" width="126"/></picture>
+<div class="card-body">
+<h3>Tunnel Rush</h3>
+</div>
+</a>
+<a class="card" href="/game.html?g=eggy-car">
+<picture><img alt="Eggy Car" class="img-fluid" height="126" src="https://quiz-50.github.io/driving-games/eggy-car/logo.jpg" width="126"/></picture>
+<div class="card-body">
+<h3>Eggy Car</h3>
+</div>
+</a>
 <a class="card" href="/game.html?g=fruit-ninja">
 <picture><img alt="Fruit Ninja" class="img-fluid" height="126" src="https://quiz-50.github.io/casual-games/fruit-ninja/logo.jpg" width="126"/></picture>
 <div class="card-body">
@@ -563,6 +575,9 @@
 <h3>Save the Doge</h3>
 </div>
 </a>
+
+</div>
+</div>
 <div class="description pb-2 mt-4">
 <h2>Description</h2>
 <p><strong>Unblocked Games 66</strong> is a simple library of browser games that load fast and play smoothly—no downloads, no installs, and no complicated setup. The goal is to help you find something fun in seconds, whether you have five minutes for a quick match or you want a longer session with levels, upgrades, and challenges.</p>
@@ -571,8 +586,6 @@
 <p><strong>Play responsibly:</strong> some schools and workplaces block gaming sites by policy. If a network restriction is in place, it may be intentional. Always follow local rules. If you have access, you can still enjoy quick browser games during breaks and free time.</p>
 <p>Looking for popular titles? Many players enjoy classics like <a href="/game.html?g=among-us">Among Us</a> and quick competitive games such as <a href="/game.html?g=1v1-lol">1v1.LOL</a> (if available in your list), plus endless runners, puzzle levels, and arcade‑style high score challenges. As the collection grows, we regularly refresh the homepage so you can discover new favorites without scrolling forever.</p>
 <p>If you’re reviewing the site or need to reach us, you can find our <a href="/privacy.html">Privacy Policy</a>, <a href="/terms.html">Terms and Conditions</a>, and <a href="/contact.html">Contact Us</a> pages in the top menu. Thanks for visiting—pick a game, hit play, and have fun.</p>
-</div>
-</div>
 </div>
 </section>
 <section class="layout-text pt-4 pb-5">
