@@ -159,7 +159,7 @@ h4, .h4 {
 }
 
 .card-masonry .card-collection .card-collection-body {
-  background:#000;
+  background-color: var(--bs-gray-200);
   display: flex;
   align-items: center;
   flex-direction: row;
@@ -434,3 +434,6 @@ h4, .h4 {
   --bs-tooltip-opacity: 0.9;
 }
 
+
+/* Dark background override */
+body{background:#000;color:#fff;}
