@@ -655,3 +655,6 @@ body{background:#000;color:#fff;}
 /* Optional: enable during layout testing
 .ad-slot--empty{outline:1px dashed rgba(255,255,255,.15);border-radius:8px;}
 */
+
+/* Reaction active state */
+.reaction.active{opacity:1;filter:brightness(1.2);}
