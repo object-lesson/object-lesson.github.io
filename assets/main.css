@@ -649,3 +649,9 @@ table td {
 /*# sourceMappingURL=main.css.map */
 /* Dark background override */
 body{background:#000;color:#fff;}
+
+/* Ad placeholders (empty until you paste ad code) */
+.ad-slot{width:100%;min-height:1px;}
+/* Optional: enable during layout testing
+.ad-slot--empty{outline:1px dashed rgba(255,255,255,.15);border-radius:8px;}
+*/
