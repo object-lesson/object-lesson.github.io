@@ -22,7 +22,7 @@
     for(const g of hits){
       const li = document.createElement('li');
       const a = document.createElement('a');
-      a.href = '/game.html?g=' + encodeURIComponent(g.slug);
+      a.href = "/" + encodeURIComponent(g.slug) + ".html";
       a.textContent = g.name || 'Game';
       li.appendChild(a);
       listEl.appendChild(li);
