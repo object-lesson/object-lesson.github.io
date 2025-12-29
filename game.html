@@ -48,20 +48,8 @@
 	};
 </script>
 <script src="//www.highperformanceformat.com/2141b3160a958e07de77e199d114a370/invoke.js" type="text/javascript"></script>
-<div class="card-masonry">
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
+<div class="card-masonry" id="similar-games">
+</div><div class="heading mb-3 mt-4"><h3>RANDOM GAMES</h3></div><div class="card-masonry" id="random-games"></div>
 </div>
 </div>
 <div class="col-lg">
@@ -160,18 +148,6 @@ aim lol, justaim lol, justedit lol.</p>
 <div class="col-lg-auto">
 <div class="w-lg-300">
 <div class="card-masonry">
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 </div>
 </div>
@@ -184,30 +160,6 @@ aim lol, justaim lol, justedit lol.</p>
 <h3>SIMILAR GAMES</h3>
 </div>
 <div class="card-masonry">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 </div>
 </section>
@@ -249,40 +201,88 @@ aim lol, justaim lol, justedit lol.</p>
 <script src="/assets/js/adsense_ubg66_v1.js"></script>
 <script src="/assets/js/analytics_ubg235_v1_0.js"></script>
 <script src="/assets/js/search_v1_0.js"></script>
-<script>
-(async function(){
+<script>(async function(){
   const params = new URLSearchParams(window.location.search);
   const slug = params.get('g');
-  const dataUrl = '/assets/static/my_games.json?v=1';
+
+  function shuffle(arr){
+    const a = arr.slice();
+    for(let i=a.length-1;i>0;i--){
+      const j = Math.floor(Math.random()*(i+1));
+      [a[i],a[j]]=[a[j],a[i]];
+    }
+    return a;
+  }
+
+  function cardHtml(g){
+    const href = `/game.html?g=${encodeURIComponent(g.slug)}`;
+    const name = g.name || 'Game';
+    const thumb = g.thumb || '';
+    return `
+      <div class="card-masonry-item">
+        <a href="${href}">
+          <div class="card">
+            <div class="thumb">
+              <img src="${thumb}" alt="${name}" loading="lazy"/>
+            </div>
+            <div class="info">
+              <h4 class="title">${name}</h4>
+            </div>
+          </div>
+        </a>
+      </div>
+    `;
+  }
+
+  function renderList(containerId, list){
+    const el = document.getElementById(containerId);
+    if(!el) return;
+    el.innerHTML = list.map(cardHtml).join('');
+  }
+
   try{
-    const res = await fetch(dataUrl, {cache:'no-store'});
+    const res = await fetch('/assets/static/my_games.json', {cache:'no-store'});
     const data = await res.json();
-    const game = (data.games || []).find(x => x.slug === slug) || data.games?.[0];
+    const games = data.games || [];
+    const game = games.find(x => x.slug === slug) || games[0];
     if(!game) return;
+
+    // main game
     document.title = (game.name || 'Game') + ' | 247 Games';
     const h1 = document.querySelector('h1');
     if(h1) h1.textContent = game.name || 'Game';
     const ifr = document.getElementById('gameFrame');
     if(ifr) ifr.src = game.link;
-    const pre = document.querySelector('iframe[style*="z-index: -1"]');
-    if(pre) pre.src = game.link;
+
     const md = document.querySelector('meta[name="description"]');
     if(md){
       const about = (game.about || '').replace(/\s+/g,' ').trim();
-      md.content = about ? about.slice(0,160) : ('Play ' + game.name + ' online in your browser—no downloads.');
+      md.content = about ? about.slice(0,160) : ('Play ' + (game.name||'this game') + ' online in your browser—no downloads.');
     }
 
-    const thumb = (game.thumb || game.image || game.img || '');
-    if(thumb){
-      const og = document.querySelector('meta[property="og:image"]');
-      if(og) og.content = thumb;
-      const tw = document.querySelector('meta[name="twitter:image"]');
-      if(tw) tw.content = thumb;
+    const og = document.querySelector('meta[property="og:image"]');
+    if(og && game.thumb) og.content = game.thumb;
+    const tw = document.querySelector('meta[name="twitter:image"]');
+    if(tw && game.thumb) tw.content = game.thumb;
+
+    // similar: same catagory if available; fallback to action-games segment in link
+    const cat = (game.catagory || '').toLowerCase();
+    let similars = [];
+    if(cat){
+      similars = games.filter(g => (g.slug !== game.slug) && ((g.catagory||'').toLowerCase() === cat));
+    } else {
+      const seg = (game.link || '').split('/').filter(Boolean)[2] || '';
+      similars = games.filter(g => g.slug !== game.slug && (g.link||'').includes(`/${seg}/`));
     }
+    similars = shuffle(similars).slice(0, 12);
+    renderList('similar-games', similars);
+
+    // random 20 (exclude current)
+    const random20 = shuffle(games.filter(g => g.slug !== game.slug)).slice(0, 20);
+    renderList('random-games', random20);
 
   }catch(e){
     console.error('Game load error', e);
   }
-})();
-</script></body>
+})();</script></body>
 </html>
