@@ -59,11 +59,9 @@
 <div class="w-lg-300">
 <div class="d-flex align-items-center flex-nowrap justify-content-lg-end mb-2 right-name">
 <div class="dropdown mx-1 py-1" data-bs-toggle="tooltip" data-bss-tooltip="" title="Share"><button class="btn btn-square btn-ghost rounded-circle" type="button"><svg fill="currentColor" height="1em" viewbox="-32 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg">
-<!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc. -->
 <path d="M246.6 9.4c-12.5-12.5-32.8-12.5-45.3 0l-128 128c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L192 109.3V320c0 17.7 14.3 32 32 32s32-14.3 32-32V109.3l73.4 73.4c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-128-128zM64 352c0-17.7-14.3-32-32-32s-32 14.3-32 32v64c0 53 43 96 96 96H352c53 0 96-43 96-96V352c0-17.7-14.3-32-32-32s-32 14.3-32 32v64c0 17.7-14.3 32-32 32H96c-17.7 0-32-14.3-32-32V352z"></path>
 </svg></button></div>
 <div class="dropdown mx-1 py-1" data-bs-toggle="tooltip" data-bss-tooltip="" title="Fullscreen"><button class="btn btn-square btn-ghost rounded-circle" onclick="openFullscreen();" type="button"><svg fill="currentColor" height="1em" viewbox="-32 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg">
-<!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc. -->
 <path d="M160 64c0-17.7-14.3-32-32-32s-32 14.3-32 32v64H32c-17.7 0-32 14.3-32 32s14.3 32 32 32h96c17.7 0 32-14.3 32-32V64zM32 320c-17.7 0-32 14.3-32 32s14.3 32 32 32H96v64c0 17.7 14.3 32 32 32s32-14.3 32-32V352c0-17.7-14.3-32-32-32H32zM352 64c0-17.7-14.3-32-32-32s-32 14.3-32 32v96c0 17.7 14.3 32 32 32h96c17.7 0 32-14.3 32-32s-14.3-32-32-32H352V64zM320 320c-17.7 0-32 14.3-32 32v96c0 17.7 14.3 32 32 32s32-14.3 32-32V384h64c17.7 0 32-14.3 32-32s-14.3-32-32-32H320z"></path>
 </svg></button></div>
 <div class="w-lg-200 ms-4">
@@ -327,6 +325,16 @@ try{
     const res=await fetch('/assets/static/my_games.json', {cache:'no-store'});
     const data=await res.json();
     const games=data.games||[];
+
+    // normalize thumbs: if thumb is relative (e.g. "splash.png"), resolve it against game.link
+    for(const g of games){
+      try{
+        if(g && g.thumb && !/^https?:\/\//i.test(String(g.thumb))){
+          const base = (g.link||'').endsWith('/') ? g.link : (g.link||'') + '/';
+          g.thumb = new URL(String(g.thumb), base).href;
+        }
+      }catch(e){}
+    }
     const game=games.find(x=>x.slug===slug)||games[0];
     if(!game) return;
 
@@ -335,7 +343,22 @@ try{
     if(h1) h1.textContent=game.name||'Game';
 
     const ifr=document.getElementById('gameFrame');
-    if(ifr) ifr.src=game.link;
+    if(ifr){
+      // Keep the visible iframe URL as about:blank, and load the real game inside an inner iframe.
+      const gameUrl = (game.link||'').trim();
+      const safeUrl = gameUrl || 'about:blank';
+      ifr.removeAttribute('src'); // let srcdoc win
+      ifr.setAttribute('src', 'about:blank');
+      ifr.setAttribute('referrerpolicy','no-referrer');
+      ifr.setAttribute('sandbox','allow-forms allow-modals allow-orientation-lock allow-pointer-lock allow-popups allow-presentation allow-same-origin allow-scripts');
+      ifr.srcdoc = `<!doctype html><html><head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<style>html,body{margin:0;height:100%;background:#000}iframe{border:0;width:100%;height:100%}</style>
+</head><body>
+<iframe src="${safeUrl}" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+</body></html>`;
+    }
 
     const articleMap=window.__GAME_ARTICLES__||{};
     const descBox=document.querySelector('div.description');
