@@ -25,7 +25,7 @@
 <div class="social-button"><img src="/assets/img/youtube-color.svg"/></div>
 </a>
 <div class="form-search ms-xl-4 mb-3 mb-lg-0">
-<div class="input-group shadow-none input-group-inline"><span class="bg-transparent border-0 shadow-none input-group-text input-group-text text-gray-500 ps-0 pe-3"><svg class="bi bi-search" fill="currentColor" height="1em" id="search-button" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"></path></svg></span><input class="bg-transparent border-0 shadow-none form-control form-control ps-0" id="search-input" placeholder="Text to search..." type="text"/></div>
+<div class="input-group shadow-none input-group-inline"><span class="bg-transparent border-0 shadow-none input-group-text input-group-text text-gray-500 ps-0 pe-3"><svg class="bi bi-search" fill="currentColor" height="1em" id="search-button" viewbox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0"></path></svg></span><input class="bg-transparent border-0 shadow-none form-control form-control ps-0" id="search-input" placeholder="Text to search..." type="text"/><ul id="search-results"></ul></div>
 </div>
 <ul class="navbar-nav ms-xl-auto">
 <li class="nav-item"><a class="nav-link active" href="#"><svg class="icon icon-tabler icon-tabler-device-gamepad" fill="none" height="1em" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -35,7 +35,7 @@
 <path d="M15 11l0 .01"></path>
 <path d="M18 13l0 .01"></path>
 </svg></a></li>
-<li class="nav-item"><a class="nav-link" href="#" b0</a></li>
+<li class="nav-item"><a a="" b0<="" class="nav-link" href="#"></a></li>
 </ul>
 </div>
 </div>
@@ -2960,23 +2960,5 @@
 <script src="/assets/js/adsense_ubg66_v1.js"></script>
 <script src="/assets/js/analytics_ubg235_v1_0.js"></script>
 <script src="/assets/js/search_v1_0.js"></script>
-<script>
-(async function(){
-  const input=document.getElementById('search-input');
-  const list=document.getElementById('search-results') || document.querySelector('.search-results') || document.body;
-  if(!input) return;
-  const res=await fetch('/assets/static/my_games.json?v=1', {cache:'no-store'});
-  const data=await res.json();
-  const games=data.games||[];
-  function render(q){
-    const v=(q||'').toLowerCase().trim();
-    const hits= v ? games.filter(g => (g.name||'').toLowerCase().includes(v)).slice(0,50) : [];
-    const html=hits.map(g=>`<li><a href="/game.html?g=${g.slug}">${g.name}</a></li>`).join('');
-    if(list.tagName && list.tagName.toLowerCase()==='ul') list.innerHTML=html;
-    else list.innerHTML='<ul>'+html+'</ul>';
-  }
-  input.addEventListener('input', e=>render(e.target.value));
-  render(input.value);
-})();
-</script></body>
+</body>
 </html>
