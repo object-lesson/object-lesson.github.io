@@ -9,7 +9,7 @@
 <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
 <link href="/assets/css/Inter.css" rel="stylesheet"/>
 <link href="/assets/css/styles.css" rel="stylesheet"/>
-</head>
+<meta content="" property="og:image"/><meta content="" name="twitter:image"/></head>
 <body>
 <header>
 <nav class="navbar navbar-expand-lg bg-body">
@@ -511,6 +511,15 @@ aim lol, justaim lol, justedit lol.</p>
       const about = (game.about || '').replace(/\s+/g,' ').trim();
       md.content = about ? about.slice(0,160) : ('Play ' + game.name + ' online in your browser—no downloads.');
     }
+
+    const thumb = game.thumb || game.image || game.img || '';
+    if(thumb){
+      const og = document.querySelector('meta[property="og:image"]');
+      if(og) og.content = thumb;
+      const tw = document.querySelector('meta[name="twitter:image"]');
+      if(tw) tw.content = thumb;
+    }
+
   }catch(e){
     console.error('Game load error', e);
   }
